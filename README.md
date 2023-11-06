@@ -3,4 +3,6 @@ The Markov chains have been widely applied in multiple areas from physics, engin
 
 # About the method
 ## 1. Calculation of profit classes
-+ Profit classes are the resulting categories of the calculation which splits up the profit into 10 equal parts based on the cumulative percentage.
++ Profit classes are the resulting categories of the calculation which splits up the profit into 10 equal parts based on the cumulative percentage;
++ The Fortune Global 500 companies were sorted in descending order according to its profit;
++ The assigment of profit classes from 1 to 10 according 
