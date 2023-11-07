@@ -8,6 +8,6 @@ Profit classes are the resulting categories of the calculation which splits up t
 The calculation is as follows:
 + To sort the companies in descending order according to its profit;
 + To assign the profit classes from 1 to 10 in line with the respective cumulative percentage;
-+ Figures <=0 are excluded from the calculation and tagged as "<=0".
++ Figures <=0 are excluded from the calculation and categorized as "<=0".
 
-![](https://github.com/IvoDSBarros/transition_matrices/blob/cf0c045a7075456876241170253fd5038470697e/output/png/transition_matrices_calculation_support.PNG)
+![]()
