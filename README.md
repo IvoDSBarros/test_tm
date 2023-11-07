@@ -11,6 +11,7 @@ The calculation is as follows:
 + Figures <=0 are excluded from the calculation and categorized as "<=0";
 + When comparing companies over years, the new entries and the companies which were dropped from the ranking were categorized as "NE/DfR". 
 
+**Table 1: Profit classes calculation** 
 ![](https://github.com/IvoDSBarros/transition-matrices/blob/35e7e9784bce96f5a58de1114c148efc72294435/output/png/transition_matrices_calculation_support.PNG)
 
 
