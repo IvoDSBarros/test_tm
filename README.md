@@ -11,7 +11,7 @@ The calculation is as follows:
 + Figures <=0 are excluded from the calculation and categorized as "<=0";
 + When comparing companies over years, the new entries and the companies which were dropped from the ranking were categorized as "NE/DfR". 
 
-![](https://github.com/IvoDSBarros/transition-matrices/blob/72d40d620791456479a64f206c8c34930ba3c223/output/png/transition_matrices_calculation_support.PNG)
+![]()
 
 
 ## 2. Interpretation of the transition matrix
