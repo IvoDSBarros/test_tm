@@ -19,5 +19,5 @@ The calculation is as follows:
 
 ## 2. Interpretation of the transition matrix
 + The probabilities of the transition matrix are expressed in percentage, as stated previously;
-+ The columns stand for the profit classes of 2023, whereas the rows account for the profit classes of 2020.
-+ The green segment 
++ The columns stand for the profit classes of a later year of the time range (2023 in this case), whereas the rows account for the profit classes of a previous year (2020).
++ Green segment (lower triangular) 
