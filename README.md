@@ -10,7 +10,7 @@ The calculation is as follows:
 + To assign the profit classes from 1 to 10 in line with the respective cumulative percentage;
 + Figures <=0 are excluded from the calculation and categorized as "<=0";
 + When comparing companies over years, the new entries and the companies which were dropped from the ranking were categorized as "NE/DfR". 
-
+<br>
 **Table 1: Profit classes calculation**
 <br>
 ![](https://github.com/IvoDSBarros/transition-matrices/blob/35e7e9784bce96f5a58de1114c148efc72294435/output/png/transition_matrices_calculation_support.PNG)
