@@ -8,7 +8,8 @@ Profit classes are the resulting categories of the calculation which splits up t
 The calculation is as follows:
 + To sort the companies in descending order according to its profit;
 + To assign the profit classes from 1 to 10 in line with the respective cumulative percentage;
-+ Figures <=0 are excluded from the calculation and categorized as "<=0".
++ Figures <=0 are excluded from the calculation and categorized as "<=0";
++ When comparing companies over years, the new entries and the companies which were dropped from the ranking were categorized as "NE/DfR". 
 
 ![](https://github.com/IvoDSBarros/transition-matrices/blob/72d40d620791456479a64f206c8c34930ba3c223/output/png/transition_matrices_calculation_support.PNG)
 
