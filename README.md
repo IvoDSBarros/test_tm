@@ -10,7 +10,7 @@ The calculation is as follows:
 + To assign the profit classes from 1 to 10 in line with the respective cumulative percentage;
 + Figures <=0 are excluded from the calculation and categorized as "<=0".
 
-![]()
+![](https://github.com/IvoDSBarros/transition-matrices/blob/72d40d620791456479a64f206c8c34930ba3c223/output/png/transition_matrices_calculation_support.PNG)
 
 
 ## 2. Interpretation of the transition matrix
