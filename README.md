@@ -11,3 +11,9 @@ The calculation is as follows:
 + Figures <=0 are excluded from the calculation and categorized as "<=0".
 
 ![]()
+
+
+## 2. Interpretation of the transition matrix
++ The probabilities of the transition matrix are expressed in percentage, as stated previously;
++ The columns stand for the profit classes of 2023, whereas the rows account for the profit classes of 2020.
++  
