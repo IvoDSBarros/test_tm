@@ -8,9 +8,7 @@ Profit classes are the resulting categories of the calculation which splits up t
 The calculation is as follows:
 + To sort the companies in descending order according to its profit;
 + To assign the profit classes from 1 to 10 in line with the respective cumulative percentage;
-+ Figures <=0 are excluded from the calculation and categorized as "<=0";
-+ When comparing companies over years, the new entries and the companies which were dropped from the ranking were categorized as "NE/DfR". 
-<br>
++ Figures <=0 are excluded from the calculation and categorized as "<=0".
 
 **Table 1: Profit classes calculation**
 <br>
