@@ -10,7 +10,7 @@ The calculation is as follows:
 + To assign the profit classes from 1 to 10 in line with the respective cumulative percentage;
 + Figures <=0 are excluded from the calculation and categorized as "<=0".
 
-**Table 1: Profit classes calculation**
+**Image 1: Profit classes calculation**
 <br>
 ![](https://github.com/IvoDSBarros/transition-matrices/blob/35e7e9784bce96f5a58de1114c148efc72294435/output/png/transition_matrices_calculation_support.PNG)
 
@@ -19,4 +19,8 @@ The calculation is as follows:
 + The probabilities of the transition matrix are expressed in percentage, as stated previously;
 + The columns represent the profit classes of a later year of the time range (2023 in this case), whereas the rows account for the profit classes of a previous year (2020);
 + A color coding method was adopted to identify the different types of transitions;
-+ Green segment (lower triangular): it portrays positive transitions in the matrix 
++ Green segment (lower triangular): it portrays positive transitions in the matrix
+
+**Image 2: 4-Year Profit transition matrix on the Fortune 500 Global**
+<br>
+![](https://github.com/IvoDSBarros/transition-matrices/blob/9c568ccbc3c743a67c7de10a21c09064f50f45c4/output/png/transition_matrices_4_year_profit_tm.PNG)
