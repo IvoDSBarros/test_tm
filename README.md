@@ -1,5 +1,5 @@
 # Overview
-The Markov chains have been widely applied in multiple areas from physics, engineering and biology to marketing and finance (Norris, 1997; Privault, 2013). This repository is exclusively focused on the transition matrices whose probabilities are expressed in percentage (Privault, 2013). To showcase this particular application of Markov Chains, the Fortune Global 500 list on the world's largest companies was scraped and prepared. Specifically, the compiled dataset covers lists of the previous four years (from 2020 to 2023). A 4-year transition matrix based on the companies' profit was computed and styled using Python.
+The Markov chains have been widely applied in multiple areas from physics, engineering and biology to marketing and finance (Norris, 1997; Privault, 2013). This repository is exclusively focused on the type of transition matrix of the Markov chain whose probabilities are expressed in percentage (Privault, 2013). To showcase this particular application of Markov chains, the Fortune Global 500 list on the world's largest companies was scraped and prepared. Specifically, the compiled dataset covers lists of the previous four years (from 2020 to 2023). A 4-year transition matrix based on the companies' profit was computed and styled using Python.
 
 # About the method
 ## 1. Calculation of profit classes
