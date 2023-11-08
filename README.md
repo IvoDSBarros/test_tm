@@ -9,6 +9,7 @@ The calculation is as follows:
 + To sort the companies in descending order according to its profit;
 + To assign the profit classes from 1 to 10 in line with the respective cumulative percentage;
 + Figures <=0 are excluded from the calculation and categorized as "<=0".
+<br>
 
 **Image 1: Profit classes calculation**
 <br>
