@@ -21,7 +21,9 @@ The calculation is as follows:
 + The columns represent the profit classes of a later year of the time range (2023 in this case), whereas the rows account for the profit classes of a previous year (2020);
 + A color coding method was adopted to identify the different types of transitions;
 + Green segment (lower triangular): it portrays positive transitions in the matrix
+<br>
 
 **Image 2: 4-Year Profit transition matrix on the Fortune 500 Global**
 <br>
+
 ![](https://github.com/IvoDSBarros/transition-matrices/blob/9c568ccbc3c743a67c7de10a21c09064f50f45c4/output/png/transition_matrices_4_year_profit_tm.PNG)
