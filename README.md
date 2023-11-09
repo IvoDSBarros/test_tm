@@ -20,9 +20,9 @@ The calculation is as follows:
 + The probabilities of the transition matrix are expressed in percentage, as stated previously;
 + The columns represent the profit classes of a later year of the time range (2023 in this case), whereas the rows stand for the profit classes of a previous year (2020);
 + A color coding method was adopted to identify the different types of transitions;
-+ Green segment (lower triangular): it portrays positive transitions in the matrix meaning any transition from a lower class of a previous year to an upper class of a later year; steep positive transitions are highlighted in dark green and, on the other hand, intermediate and slight positive transitions are highlighted in light green;
++ Green segment (lower triangular): it portrays positive transitions in the matrix meaning any transition from a lower class of a previous year to an upper class of a later year; steep positive transitions are highlighted in dark green while intermediate and slight positive transitions are marked in light green;
 + Yellow segment (diagonal): same profit class in both years of the analysis;
-+ Red segment (upper triangular): it refers to negative transitions in the matrix, that is to say any transition from an upper class of a previous year to a lower class of a later year; steep negative transitions are highlighted in red green and, on the other hand, intermediate and slight negative transitions are highlighted in light red.
++ Red segment (upper triangular): red identifies negative transitions, that is to say any transition from an upper class of a previous year to a lower class of a later year; the dark red intersections of the matrix are referring to steep negative transitions and in light red  intermediate and slight negative transitions are highlighted in light red.
 <br>
 
 **Image 2: 4-Year Profit transition matrix on the Fortune Global 500**
