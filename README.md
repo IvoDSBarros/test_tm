@@ -31,7 +31,13 @@ The calculation is as follows:
 
 ![](https://github.com/IvoDSBarros/transition-matrices/blob/9c568ccbc3c743a67c7de10a21c09064f50f45c4/output/png/transition_matrices_4_year_profit_tm.PNG)
 
+**Image 3: 4-Year overall positive transition likelihood on the Fortune Global 500**
+<br>
 
+![](https://github.com/IvoDSBarros/transition-matrices/blob/c31b84a97c0eaa03b6eae0c8064905c86a61302e/output/png/transition_matrices_4_year_positive_transitions.PNG)
+
+**Image 4: 4-Year overall negative transition likelihood on the Fortune Global 500**
+<br>
 
 ![](https://github.com/IvoDSBarros/transition-matrices/blob/962ad4790be75cfe4ae14ac255ef40f0158ea6ee/output/png/transition_matrices_4_year_negative_transitions.PNG)
 
