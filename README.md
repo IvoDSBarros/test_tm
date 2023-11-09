@@ -27,8 +27,9 @@ The calculation is as follows:
 
 **Image 2: 4-Year Profit transition matrix on the Fortune Global 500**
 <br>
+
 ![](https://github.com/IvoDSBarros/transition-matrices/blob/9c568ccbc3c743a67c7de10a21c09064f50f45c4/output/png/transition_matrices_4_year_profit_tm.PNG)
 
 # References
 + Norris, J.R. (1997) Markov Chains. Cambridge Series in Statistical and Probabilistic Mathematics. Series Number 2. Cambridge University Press. 237p. ISBN: 9780511810633.
-+ Privault, N. (2013) Understanding Markov Chains. Examples and Applications
++ Privault, N. (2013) Understanding Markov Chains. Examples and Applications. Springer Undergraduate Mathematics Series. 354p. ISBN 978-981-4451-50-5.
