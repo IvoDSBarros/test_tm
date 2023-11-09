@@ -18,14 +18,17 @@ The calculation is as follows:
 
 ## 2. Interpretation of the transition matrix
 + The probabilities of the transition matrix are expressed in percentage, as stated previously;
-+ The columns represent the profit classes of a later year of the time range (2023 in this case), whereas the rows stand for the profit classes of a previous year (2020);
++ The columns represent the profit classes of a later year of the time range (2023 in the case in hand), whereas the rows stand for the profit classes of a previous year (2020);
 + A color coding method was adopted to identify the different types of transitions;
 + Green segment (lower triangular): it portrays positive transitions in the matrix meaning any transition from a lower class of a previous year to an upper class of a later year; steep positive transitions are highlighted in dark green while intermediate and slight positive transitions are marked in light green;
 + Yellow segment (diagonal): same profit class in both years of the analysis;
-+ Red segment (upper triangular): red identifies negative transitions, that is to say any transition from an upper class of a previous year to a lower class of a later year; the dark red intersections of the matrix are referring to steep negative transitions and in light red  intermediate and slight negative transitions are highlighted in light red.
++ Red segment (upper triangular): red identifies negative transitions, that is to say any transition from an upper class of a previous year to a lower class of a later year; the dark red intersections of the matrix are referring to steep negative transitions and the light red ones are related to intermediate and slight negative transitions.
 <br>
 
 **Image 2: 4-Year Profit transition matrix on the Fortune Global 500**
 <br>
-
 ![](https://github.com/IvoDSBarros/transition-matrices/blob/9c568ccbc3c743a67c7de10a21c09064f50f45c4/output/png/transition_matrices_4_year_profit_tm.PNG)
+
+# References
++ Norris, J.R. (1997) Markov Chains. Cambridge Series in Statistical and Probabilistic Mathematics. Series Number 2. Cambridge University Press. 237p. ISBN: 9780511810633.
++ Privault, N. (2013) Understanding Markov Chains. Examples and Applications
