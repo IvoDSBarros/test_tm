@@ -31,6 +31,12 @@ The calculation is as follows:
 
 ![](https://github.com/IvoDSBarros/transition-matrices/blob/9c568ccbc3c743a67c7de10a21c09064f50f45c4/output/png/transition_matrices_4_year_profit_tm.PNG)
 
+
+
+![](https://github.com/IvoDSBarros/transition-matrices/blob/962ad4790be75cfe4ae14ac255ef40f0158ea6ee/output/png/transition_matrices_4_year_negative_transitions.PNG)
+
+
+
 # References
 + Norris, J.R. (1997) Markov Chains. Cambridge Series in Statistical and Probabilistic Mathematics. Series Number 2. Cambridge University Press. 237p. ISBN: 9780511810633.
 + Privault, N. (2013) Understanding Markov Chains. Examples and Applications. Springer Undergraduate Mathematics Series. 354p. ISBN 978-981-4451-50-5.
