@@ -23,7 +23,9 @@ The calculation is as follows:
 + A color coding method was adopted to identify the different types of transitions;
 + Green segment (lower triangular): it portrays positive transitions in the matrix meaning any transition from a lower class of a previous year to an upper class of a later year; steep positive transitions are highlighted in dark green while intermediate and slight positive transitions are marked in light green;
 + Yellow segment (diagonal): same profit class in both years of the analysis;
-+ Red segment (upper triangular): red identifies negative transitions, that is to say any transition from an upper class of a previous year to a lower class of a later year; the dark red intersections of the matrix are referring to steep negative transitions and the light red ones are related to intermediate and slight negative transitions.
++ Red segment (upper triangular): red identifies negative transitions, that is to say any transition from an upper class of a previous year to a lower class of a later year; the dark red intersections of the matrix are referring to steep negative transitions and the light red ones are related to intermediate and slight negative transitions;
++ Blue segment: companies which entered the Fortune Global 500 list;
++ Brown segment: companies which were dropped from the list.
 <br>
 
 **Image 2: 4-Year Profit transition matrix on the Fortune Global 500**
@@ -44,6 +46,9 @@ The calculation is as follows:
 <br>
 
 ![](https://github.com/IvoDSBarros/transition-matrices/blob/962ad4790be75cfe4ae14ac255ef40f0158ea6ee/output/png/transition_matrices_4_year_negative_transitions.PNG)
+
+
+Find out more about computing and styling procedures here.
 
 # References
 + Norris, J.R. (1997) Markov Chains. Cambridge Series in Statistical and Probabilistic Mathematics. Series Number 2. Cambridge University Press. 237p. ISBN: 9780511810633.
