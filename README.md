@@ -35,14 +35,14 @@ The calculation is as follows:
 
 <br>
 
-**Image 3: 4-Year overall positive transition likelihood on the Fortune Global 500**
+**Image 3: 4-Year overall upgrade likelihood on the Fortune Global 500**
 <br>
 
 ![](https://github.com/IvoDSBarros/transition-matrices/blob/c31b84a97c0eaa03b6eae0c8064905c86a61302e/output/png/transition_matrices_4_year_positive_transitions.PNG)
 
 <br>
 
-**Image 4: 4-Year overall negative transition likelihood on the Fortune Global 500**
+**Image 4: 4-Year overall downgrade likelihood on the Fortune Global 500**
 <br>
 
 ![](https://github.com/IvoDSBarros/transition-matrices/blob/962ad4790be75cfe4ae14ac255ef40f0158ea6ee/output/png/transition_matrices_4_year_negative_transitions.PNG)
