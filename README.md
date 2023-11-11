@@ -31,7 +31,7 @@ The calculation is as follows:
 **Image 2: 4-Year Profit transition matrix on the Fortune Global 500**
 <br>
 
-![](https://github.com/IvoDSBarros/transition-matrices/blob/9c568ccbc3c743a67c7de10a21c09064f50f45c4/output/png/transition_matrices_4_year_profit_tm.PNG)
+![](https://github.com/IvoDSBarros/transition-matrices/blob/d4cb1395565866f20320a4bd8c433641008706d7/output/transition_matrices_4_year_profit_tm.PNG)
 
 <br>
 
