@@ -48,7 +48,7 @@ The calculation is as follows:
 ![](https://github.com/IvoDSBarros/transition-matrices/blob/962ad4790be75cfe4ae14ac255ef40f0158ea6ee/output/png/transition_matrices_4_year_negative_transitions.PNG)
 
 
-Find out more in the Jupyter Notebook.
+[Find out more in the Jupyter Notebook](https://github.com/IvoDSBarros/transition-matrices/blob/4cfcfd1b7e1bf8006042a3126d8c86f5363d6535/src/transition_matrices_compute_style.ipynb)
 
 # References
 + Norris, J.R. (1997) Markov Chains. Cambridge Series in Statistical and Probabilistic Mathematics. Series Number 2. Cambridge University Press. 237p. ISBN: 9780511810633.
