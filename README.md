@@ -38,7 +38,7 @@ The calculation is as follows:
 **Image 3: 4-Year overall upgrade likelihood on the Fortune Global 500**
 <br>
 
-![](https://github.com/IvoDSBarros/transition-matrices/blob/c31b84a97c0eaa03b6eae0c8064905c86a61302e/output/png/transition_matrices_4_year_positive_transitions.PNG)
+![](https://github.com/IvoDSBarros/transition-matrices/blob/7e76550993cee74ac4e02d480fd549ae472864a7/output/transition_matrices_4_year_positive_transitions.PNG)
 
 <br>
 
