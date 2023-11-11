@@ -45,7 +45,7 @@ The calculation is as follows:
 **Image 4: 4-Year overall downgrade likelihood on the Fortune Global 500**
 <br>
 
-![](https://github.com/IvoDSBarros/transition-matrices/blob/962ad4790be75cfe4ae14ac255ef40f0158ea6ee/output/png/transition_matrices_4_year_negative_transitions.PNG)
+![](https://github.com/IvoDSBarros/transition-matrices/blob/604b2f1e9a670737346f7c9c29efb824e516f9d8/output/transition_matrices_4_year_negative_transitions.PNG)
 
 
 [Find out more in the Jupyter Notebook](https://github.com/IvoDSBarros/transition-matrices/blob/4cfcfd1b7e1bf8006042a3126d8c86f5363d6535/src/transition_matrices_compute_style.ipynb)
