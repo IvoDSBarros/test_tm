@@ -1,0 +1,602 @@
+﻿name;newcomer_to_the_global_500;dropped_in_rank;gained_in_rank;sector;industry;country_territory;headquarters_city;headquarters_state;profitable;worlds_most_admired_companies;female_ceo;growth_in_jobs;change_the_world;fastest_growing_companies;fortune_500;best_companies;nonus_companies;change_in_rank;years_on_global_500_list;future_50
+Walmart;no;no;no;Retailing;General Merchandisers;U.S.;Bentonville;Arkansas;yes;yes;no;no;yes;no;yes;no;no;N/A;29;N/A
+Saudi Aramco;no;no;yes;Energy;Mining, Crude-Oil Production;Saudi Arabia;Dhahran;N/A;yes;no;no;yes;no;no;no;no;yes;4;5;N/A
+State Grid;no;no;no;Energy;Utilities;China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;N/A;23;N/A
+Amazon;no;yes;no;Retailing;Internet Services and Retailing;U.S.;Seattle;Washington;no;yes;no;no;no;no;yes;no;no;-2;15;N/A
+China National Petroleum;no;yes;no;Energy;Petroleum Refining;China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;-1;23;N/A
+Sinopec Group;no;yes;no;Energy;Petroleum Refining;China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;-1;25;N/A
+Exxon Mobil;no;no;yes;Energy;Petroleum Refining;U.S.;Irving;Texas;yes;no;no;no;no;no;yes;no;no;5;29;N/A
+Apple;no;yes;no;Technology;Computers, Office Equipment;U.S.;Cupertino;California;yes;yes;no;yes;no;no;yes;no;no;-1;21;N/A
+Shell;no;no;yes;Energy;Petroleum Refining;Britain;London;N/A;yes;no;no;yes;no;no;no;no;yes;6;29;N/A
+UnitedHealth Group;no;no;yes;Health Care;Health Care: Insurance and Managed Care;U.S.;Minnetonka;Minnesota;yes;yes;no;yes;no;no;yes;no;no;1;27;N/A
+CVS Health;no;yes;no;Health Care;Health Care: Pharmacy and Other Services;U.S.;Woonsocket;Rhode Island;yes;yes;yes;yes;yes;no;yes;no;no;-1;28;N/A
+Trafigura Group;no;no;yes;Wholesalers;Trading;Singapore;Singapore;N/A;yes;no;no;yes;no;no;no;no;yes;7;9;N/A
+China State Construction Engineering;no;yes;no;Engineering & Construction;Engineering & Construction;China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;-4;12;N/A
+Berkshire Hathaway;no;no;no;Financials;Insurance: Property and Casualty (Stock);U.S.;Omaha;Nebraska;no;yes;no;yes;no;no;yes;no;no;N/A;27;N/A
+Volkswagen;no;yes;no;Motor Vehicles & Parts;Motor Vehicles & Parts;Germany;Wolfsburg;N/A;yes;no;no;yes;no;no;no;no;yes;-7;29;N/A
+Uniper;yes;N/A;N/A;Energy;Energy;Germany;N/A;N/A;no;no;no;yes;no;no;no;no;yes;N/A;5;N/A
+Alphabet;no;no;no;Technology;Internet Services and Retailing;U.S.;Mountain View;California;yes;yes;no;yes;no;yes;yes;no;no;N/A;15;N/A
+McKesson;no;yes;no;Health Care;Wholesalers: Health Care;U.S.;Irving;Texas;yes;yes;no;no;no;no;yes;no;no;-2;29;N/A
+Toyota Motor;no;yes;no;Motor Vehicles & Parts;Motor Vehicles & Parts;Japan;Toyota;N/A;yes;yes;no;yes;no;no;no;no;yes;-6;29;N/A
+TotalEnergies;no;no;yes;Energy;Petroleum Refining;France;Courbevoie;N/A;yes;no;no;no;no;no;no;no;yes;7;29;N/A
+Glencore;no;no;yes;Energy;Mining, Crude-Oil Production;Switzerland;Baar;N/A;yes;no;no;yes;no;no;no;no;yes;2;13;N/A
+BP;no;no;yes;Energy;Petroleum Refining;Britain;London;N/A;no;no;no;yes;no;no;no;no;yes;13;29;N/A
+Chevron;no;no;yes;Energy;Petroleum Refining;U.S.;San Ramon;California;yes;no;no;yes;no;no;yes;no;no;14;29;N/A
+Cencora;no;yes;no;Health Care;Wholesalers: Health Care;U.S.;Conshohocken;Pennsylvania;yes;yes;no;yes;no;no;yes;no;no;-3;24;N/A
+Samsung Electronics;no;yes;no;Technology;Electronics, Electrical Equip.;South Korea;Suwon, Gyeonggi-do;N/A;yes;yes;no;yes;no;no;no;no;yes;-7;29;N/A
+Costco Wholesale;no;no;no;Retailing;General Merchandisers;U.S.;Issaquah;Washington;yes;yes;no;yes;no;no;yes;no;no;N/A;29;N/A
+Hon Hai Precision Industry;no;yes;no;Technology;Electronics, Electrical Equip.;Taiwan;New Taipei City;N/A;yes;no;no;no;no;no;no;no;yes;-7;19;N/A
+Industrial & Commercial Bank of China;no;yes;no;Financials;Banks: Commercial and Savings;China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;-6;25;N/A
+China Construction Bank;no;yes;no;Financials;Banks: Commercial and Savings;China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;-5;24;N/A
+Microsoft;no;no;yes;Technology;Computer Software;U.S.;Redmond;Washington;yes;yes;no;yes;no;no;yes;no;no;3;26;N/A
+Stellantis;no;yes;no;Motor Vehicles & Parts;Motor Vehicles & Parts;Netherlands;Hoofddorp;N/A;yes;no;no;no;no;no;no;no;yes;-2;18;N/A
+Agricultural Bank of China;no;yes;no;Financials;Banks: Commercial and Savings;China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;-4;24;N/A
+Ping An Insurance;no;yes;no;Financials;Insurance: Life, Health (stock);China;Shenzhen;N/A;yes;no;yes;no;no;no;no;no;yes;-8;14;N/A
+Cardinal Health;no;no;yes;Health Care;Wholesalers: Health Care;U.S.;Dublin;Ohio;no;no;no;no;no;no;yes;no;no;2;26;N/A
+Cigna;no;yes;no;Health Care;Health Care: Pharmacy and Other Services;U.S.;Bloomfield;Connecticut;yes;yes;no;no;no;yes;yes;no;no;-5;28;N/A
+Marathon Petroleum;no;no;yes;Energy;Petroleum Refining;U.S.;Findlay;Ohio;yes;no;no;yes;no;no;yes;no;no;13;12;N/A
+Phillips 66;no;no;yes;Energy;Petroleum Refining;U.S.;Houston;Texas;yes;no;no;no;no;no;yes;no;no;37;11;N/A
+Sinochem Holdings;no;yes;no;Chemicals;Chemicals;China;Beijing;N/A;no;no;no;yes;no;no;no;no;yes;-7;2;N/A
+China Railway Engineering Group;no;yes;no;Engineering & Construction;Engineering & Construction;China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;-5;9;N/A
+Valero Energy;no;no;yes;Energy;Petroleum Refining;U.S.;San Antonio;Texas;yes;no;no;no;no;no;yes;no;no;42;23;N/A
+Gazprom;no;no;yes;Energy;Energy;Russia;St. Petersburg;N/A;yes;no;no;no;no;no;no;no;yes;11;27;N/A
+China National Offshore Oil;no;no;yes;Energy;Mining, Crude-Oil Production;China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;23;17;N/A
+China Railway Construction;no;yes;no;Engineering & Construction;Engineering & Construction;China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;-4;12;N/A
+China Baowu Steel Group;no;no;no;Materials;Metals;China;Shanghai;N/A;yes;no;no;yes;no;no;no;no;yes;N/A;20;N/A
+Mitsubishi;no;yes;no;Wholesalers;Trading;Japan;Tokyo;N/A;yes;no;no;no;no;no;no;no;yes;-4;29;N/A
+Ford Motor;no;no;yes;Motor Vehicles & Parts;Motor Vehicles & Parts;U.S.;Dearborn;Michigan;no;no;no;no;no;no;yes;no;no;7;29;N/A
+Mercedes-Benz Group;no;yes;no;Motor Vehicles & Parts;Motor Vehicles & Parts;Germany;Stuttgart;N/A;yes;no;no;no;no;no;no;no;yes;-9;29;N/A
+Home Depot;no;yes;no;Retailing;Specialty Retailers;U.S.;Atlanta;Georgia;yes;yes;no;no;no;no;yes;no;no;-5;29;N/A
+Bank of China;no;yes;no;Financials;Banks: Commercial and Savings;China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;-7;29;N/A
+General Motors;no;no;yes;Motor Vehicles & Parts;Motor Vehicles & Parts;U.S.;Detroit;Michigan;yes;no;yes;yes;no;no;yes;no;no;14;29;N/A
+Elevance Health;no;yes;no;Health Care;Health Care: Insurance and Managed Care;U.S.;Indianapolis;Indiana;yes;yes;yes;yes;no;no;yes;yes;no;-1;22;N/A
+JD.com;no;yes;no;Retailing;Internet Services and Retailing;China;Beijing;N/A;yes;no;yes;yes;no;no;no;no;yes;-6;8;N/A
+JPMorgan Chase;no;no;yes;Financials;Banks: Commercial and Savings;U.S.;New York;New York;yes;yes;no;yes;no;no;yes;no;no;10;29;N/A
+China Life Insurance;no;yes;no;Financials;Insurance: Life, Health (stock);China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;-14;21;N/A
+Electricité de France;no;no;yes;Energy;Utilities;France;Paris;N/A;no;no;no;yes;no;no;no;no;yes;40;29;N/A
+Equinor;no;no;yes;Energy;Petroleum Refining;Norway;Stavanger;N/A;yes;no;no;yes;no;no;no;no;yes;58;29;N/A
+BMW Group;no;no;yes;Motor Vehicles & Parts;Motor Vehicles & Parts;Germany;Munich;N/A;yes;yes;no;yes;no;no;no;no;yes;2;29;N/A
+Kroger;no;yes;no;Food & Drug Stores;Food & Drug Stores;U.S.;Cincinnati;Ohio;yes;no;no;yes;no;no;yes;no;no;-7;29;N/A
+Enel;no;no;yes;Energy;Utilities;Italy;Rome;N/A;yes;no;no;no;no;no;no;no;yes;31;29;N/A
+Centene;no;no;yes;Health Care;Health Care: Insurance and Managed Care;U.S.;St. Louis;Missouri;yes;yes;yes;yes;no;no;yes;no;no;6;8;N/A
+ENI;no;no;yes;Energy;Petroleum Refining;Italy;Rome;N/A;yes;no;no;no;no;no;no;no;yes;50;29;N/A
+China Mobile Communications;no;yes;no;Telecommunications;Telecommunications;China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;-5;23;N/A
+China Communications Construction;no;yes;no;Engineering & Construction;Engineering & Construction;China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;-3;16;N/A
+Verizon Communications;no;yes;no;Telecommunications;Telecommunications;U.S.;New York;New York;yes;yes;no;no;no;no;yes;no;no;-10;29;N/A
+China Minmetals;no;yes;no;Materials;Metals;China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;-7;17;N/A
+Walgreens Boots Alliance;no;yes;no;Food & Drug Stores;Food & Drug Stores;U.S.;Deerfield;Illinois;yes;yes;no;yes;no;no;yes;no;no;-21;29;N/A
+Allianz;no;yes;no;Financials;Insurance: Life, Health (stock);Germany;Munich;N/A;yes;no;no;yes;no;no;no;no;yes;-20;29;N/A
+Alibaba Group Holding;no;yes;no;Retailing;Internet Services and Retailing;China;Hangzhou;N/A;yes;yes;no;no;no;no;no;no;yes;-13;7;N/A
+Xiamen C&D;no;no;yes;Wholesalers;Trading;China;Xiamen;N/A;yes;no;no;yes;no;no;no;no;yes;8;7;N/A
+Honda Motor;no;yes;no;Motor Vehicles & Parts;Motor Vehicles & Parts;Japan;Tokyo;N/A;yes;no;no;no;no;no;no;no;yes;-9;29;N/A
+Petrobras;no;no;yes;Energy;Petroleum Refining;Brazil;Rio de Janeiro;N/A;yes;no;no;no;no;no;no;no;yes;57;29;N/A
+Shandong Energy Group;no;yes;no;Energy;Mining, Crude-Oil Production;China;Jinan;N/A;yes;no;no;no;no;no;no;no;yes;-3;6;N/A
+E.ON;no;no;yes;Energy;Energy;Germany;Essen;N/A;yes;no;no;no;no;no;no;no;yes;39;29;N/A
+China Resources;no;yes;no;Financials;Diversified Financials;China;Hong Kong;N/A;yes;no;no;yes;no;no;no;no;yes;-4;14;N/A
+Fannie Mae;no;no;yes;Financials;Diversified Financials;U.S.;Washington;District Of Columbia;yes;no;yes;yes;no;no;yes;no;no;18;26;N/A
+China Energy Investment;no;no;yes;Energy;Mining, Crude-Oil Production;China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;9;14;N/A
+Comcast;no;yes;no;Telecommunications;Telecommunications;U.S.;Philadelphia;Pennsylvania;yes;yes;no;no;no;no;yes;yes;no;-4;21;N/A
+AT&T;no;yes;no;Telecommunications;Telecommunications;U.S.;Dallas;Texas;no;yes;no;no;no;no;yes;no;no;-46;29;N/A
+Deutsche Telekom;no;yes;no;Telecommunications;Telecommunications;Germany;Bonn;N/A;yes;yes;no;no;no;no;no;no;yes;-17;29;N/A
+Pemex;no;no;yes;Energy;Mining, Crude-Oil Production;Mexico;Mexico City;N/A;yes;no;no;no;no;no;no;no;yes;86;29;N/A
+Meta Platforms;no;yes;no;Technology;Internet Services and Retailing;U.S.;Menlo Park;California;yes;yes;no;yes;no;no;yes;no;no;-10;7;N/A
+Bank of America;no;no;yes;Financials;Banks: Commercial and Savings;U.S.;Charlotte;North Carolina;yes;yes;no;yes;no;no;yes;yes;no;23;29;N/A
+China Southern Power Grid;no;no;yes;Energy;Utilities;China;Guangzhou;N/A;yes;no;no;no;no;no;no;no;yes;6;19;N/A
+SAIC Motor;no;yes;no;Motor Vehicles & Parts;Motor Vehicles & Parts;China;Shanghai;N/A;yes;no;no;yes;no;no;no;no;yes;-16;12;N/A
+Hyundai Motor;no;no;yes;Motor Vehicles & Parts;Motor Vehicles & Parts;South Korea;Seoul;N/A;yes;no;no;no;no;no;no;no;yes;7;28;N/A
+China Post Group;no;yes;no;Transportation;Mail, Package, and Freight Delivery;China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;-5;13;N/A
+COFCO;no;no;yes;Wholesalers;Trading;China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;4;29;N/A
+Reliance Industries;no;no;yes;Energy;Petroleum Refining;India;Mumbai;N/A;yes;no;no;yes;no;no;no;no;yes;16;20;N/A
+Engie;no;no;yes;Energy;Energy;France;Courbevoie;N/A;yes;no;yes;no;no;no;no;no;yes;41;28;N/A
+Target;no;yes;no;Retailing;General Merchandisers;U.S.;Minneapolis;Minnesota;yes;yes;no;no;no;no;yes;yes;no;-3;29;N/A
+AXA;no;yes;no;Financials;Insurance: Life, Health (stock);France;Paris;N/A;yes;no;no;no;no;no;no;no;yes;-43;29;N/A
+SK;no;no;yes;Energy;Petroleum Refining;South Korea;Seoul;N/A;yes;no;no;yes;no;no;no;no;yes;25;8;N/A
+Mitsui;no;yes;no;Wholesalers;Trading;Japan;Tokyo;N/A;yes;no;no;yes;no;no;no;no;yes;-5;29;N/A
+Indian Oil;no;no;yes;Energy;Petroleum Refining;India;New Delhi;N/A;yes;no;no;no;no;no;no;no;yes;48;29;N/A
+Xiamen ITG Holding Group;no;no;yes;Wholesalers;Trading;China;Xiamen;N/A;yes;no;no;yes;no;no;no;no;yes;11;7;N/A
+Itochu;no;yes;no;Wholesalers;Trading;Japan;Osaka;N/A;yes;no;no;no;no;no;no;no;yes;-18;29;N/A
+Dell Technologies;no;yes;no;Technology;Computers, Office Equipment;U.S.;Round Rock;Texas;yes;yes;no;no;no;no;yes;no;no;-11;23;N/A
+Archer Daniels Midland;no;no;yes;Food, Beverages & Tobacco;Food Production;U.S.;Chicago;Illinois;yes;yes;no;yes;no;no;yes;no;no;26;29;N/A
+Citigroup;no;no;yes;Financials;Banks: Commercial and Savings;U.S.;New York;New York;yes;yes;yes;yes;no;no;yes;no;no;42;29;N/A
+CITIC Group;no;no;yes;Financials;Diversified Financials;China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;2;15;N/A
+United Parcel Service;no;yes;no;Transportation;Mail, Package, and Freight Delivery;U.S.;Atlanta;Georgia;yes;yes;yes;yes;no;no;yes;no;no;-4;29;N/A
+Pfizer;no;no;yes;Health Care;Pharmaceuticals;U.S.;New York;New York;yes;yes;no;yes;no;no;yes;no;no;35;29;N/A
+DHL Group;no;yes;no;Transportation;Mail, Package, and Freight Delivery;Germany;Bonn;N/A;yes;yes;no;yes;no;no;no;no;yes;-4;29;N/A
+Banco Santander;no;no;yes;Financials;Banks: Commercial and Savings;Spain;Madrid;N/A;yes;no;no;yes;no;no;no;no;yes;42;29;N/A
+PowerChina;no;yes;no;Engineering & Construction;Engineering & Construction;China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;-5;12;N/A
+Nestlé;no;yes;no;Food, Beverages & Tobacco;Food Consumer Products;Switzerland;Vevey;N/A;yes;yes;no;no;no;no;no;no;yes;-3;29;N/A
+Life Insurance Corp. of India;no;yes;no;Financials;Insurance: Life, Health (stock);India;Mumbai;N/A;yes;no;no;no;no;no;no;no;yes;-9;2;N/A
+Lowe's;no;yes;no;Retailing;Specialty Retailers;U.S.;Mooresville;North Carolina;yes;yes;no;no;no;no;yes;no;no;-7;26;N/A
+Nippon Telegraph and Telephone;no;yes;no;Telecommunications;Telecommunications;Japan;Tokyo;N/A;yes;yes;no;yes;no;no;no;no;yes;-26;29;N/A
+PTT;no;no;yes;Energy;Petroleum Refining;Thailand;Bangkok;N/A;yes;no;no;yes;no;no;no;no;yes;67;20;N/A
+Huawei Investment & Holding;no;yes;no;Technology;Network and Other Communications Equipment;China;Shenzhen;N/A;yes;no;no;yes;no;no;no;no;yes;-15;14;N/A
+Johnson & Johnson;no;yes;no;Health Care;Pharmaceuticals;U.S.;New Brunswick;New Jersey;yes;yes;no;yes;no;no;yes;no;no;-5;23;N/A
+Sinopharm;no;yes;no;Wholesalers;Wholesalers: Health Care;China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;-33;11;N/A
+FedEx;no;no;yes;Transportation;Mail, Package, and Freight Delivery;U.S.;Memphis;Tennessee;yes;yes;no;no;no;no;yes;no;no;15;29;N/A
+COSCO Shipping;no;no;yes;Transportation;Shipping;China;Shanghai;N/A;yes;no;no;yes;no;no;no;no;yes;12;16;N/A
+Humana;no;no;yes;Health Care;Health Care: Insurance and Managed Care;U.S.;Louisville;Kentucky;yes;yes;no;no;no;no;yes;no;no;16;25;N/A
+Brookfield;no;no;yes;Financials;Diversified Financials;Canada;Toronto, Ontario;N/A;yes;no;no;yes;no;no;no;no;yes;41;7;N/A
+Bosch Group;no;yes;no;Motor Vehicles & Parts;Motor Vehicles & Parts;Germany;N/A;N/A;yes;yes;no;yes;no;no;no;no;yes;-10;29;N/A
+BASF;no;yes;no;Chemicals;Chemicals;Germany;Ludwigshafen;N/A;no;yes;no;yes;no;no;no;no;yes;-10;29;N/A
+People's Insurance Co. of China;no;yes;no;Financials;Insurance: Property and Casualty (Stock);China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;-10;14;N/A
+Royal Ahold Delhaize;no;yes;no;Food & Drug Stores;Food & Drug Stores;Netherlands;Zaandam;N/A;yes;no;no;no;no;no;no;no;yes;-6;29;N/A
+ENEOS Holdings;no;no;yes;Energy;Petroleum Refining;Japan;Tokyo;N/A;yes;no;no;yes;no;no;no;no;yes;18;29;N/A
+Hengli Group;no;yes;no;Industrials;Textiles;China;Suzhou City;N/A;yes;no;no;yes;no;no;no;no;yes;-48;7;N/A
+Amer International Group;no;yes;no;Materials;Metals;China;Shenzhen;N/A;yes;no;no;yes;no;no;no;no;yes;-48;11;N/A
+Carrefour;no;yes;no;Food & Drug Stores;Food & Drug Stores;France;Massy;N/A;yes;no;no;yes;no;no;no;no;yes;-6;29;N/A
+Energy Transfer;no;no;yes;Energy;Pipelines;U.S.;Dallas;Texas;yes;no;no;yes;no;no;yes;no;no;58;10;N/A
+BNP Paribas;no;yes;no;Financials;Banks: Commercial and Savings;France;Paris;N/A;yes;no;no;yes;no;no;no;no;yes;-4;29;N/A
+State Farm Insurance;no;no;yes;Financials;Insurance: Property and Casualty (Mutual);U.S.;Bloomington;Illinois;no;no;no;yes;no;no;yes;no;no;7;29;N/A
+Seven & I Holdings;no;no;yes;Retailing;Specialty Retailers;Japan;Tokyo;N/A;yes;no;no;no;no;no;no;no;yes;18;18;N/A
+HSBC Holdings;no;no;yes;Financials;Banks: Commercial and Savings;Britain;London;N/A;yes;no;no;no;no;no;no;no;yes;19;29;N/A
+China FAW Group;no;yes;no;Motor Vehicles & Parts;Motor Vehicles & Parts;China;Changchun;N/A;yes;no;no;yes;no;no;no;no;yes;-52;19;N/A
+China Telecommunications;no;yes;no;Telecommunications;Telecommunications;China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;-1;24;N/A
+Freddie Mac;no;no;yes;Financials;Diversified Financials;U.S.;McLean;Virginia;yes;no;no;yes;no;no;yes;no;no;58;27;N/A
+Crédit Agricole;no;yes;no;Financials;Banks: Commercial and Savings;France;Montrouge;N/A;yes;no;no;no;no;no;no;no;yes;-50;29;N/A
+PepsiCo;no;no;yes;Food, Beverages & Tobacco;Food Consumer Products;U.S.;Purchase;New York;yes;yes;no;yes;no;no;yes;no;no;8;29;N/A
+Zhejiang Rongsheng Holding Group;no;no;yes;Chemicals;Chemicals;China;Hangzhou;N/A;yes;no;no;yes;no;no;no;no;yes;44;3;N/A
+Assicurazioni Generali;no;yes;no;Financials;Insurance: Life, Health (stock);Italy;Trieste;N/A;yes;no;no;yes;no;no;no;no;yes;-65;29;N/A
+Wuchan Zhongda Group;no;yes;no;Wholesalers;Trading;China;Hangzhou;N/A;yes;no;no;yes;no;no;no;no;yes;-18;13;N/A
+Petronas;no;no;yes;Energy;Energy;Malaysia;Kuala Lumpur;N/A;yes;no;no;yes;no;no;no;no;yes;77;27;N/A
+Sony;no;yes;no;Technology;Electronics, Electrical Equip.;Japan;Tokyo;N/A;yes;yes;no;yes;no;no;no;no;yes;-24;29;N/A
+Pertamina;no;no;yes;Energy;Petroleum Refining;Indonesia;Jakarta;N/A;yes;no;yes;no;no;no;no;no;yes;82;10;N/A
+XMXYG;no;no;yes;Wholesalers;Trading;China;Xiamen;N/A;yes;no;no;yes;no;no;no;no;yes;18;6;N/A
+Christian Dior;no;no;yes;Apparel;Apparel;France;Paris;N/A;yes;no;no;yes;no;no;no;no;yes;13;23;N/A
+Wells Fargo;no;yes;no;Financials;Banks: Commercial and Savings;U.S.;San Francisco;California;yes;no;no;no;no;no;yes;no;no;-10;26;N/A
+Walt Disney;no;no;yes;Media;Entertainment;U.S.;Burbank;California;yes;yes;no;yes;no;no;yes;no;no;38;29;N/A
+China North Industries Group;no;yes;no;Aerospace & Defense;Aerospace & Defense;China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;-10;14;N/A
+Tencent Holdings;no;yes;no;Technology;Internet Services and Retailing;China;Shenzhen;N/A;yes;no;no;no;no;no;no;no;yes;-26;7;N/A
+Japan Post Holdings;no;yes;no;Financials;Insurance: Life, Health (stock);Japan;Tokyo;N/A;yes;no;no;no;no;no;no;no;yes;-54;27;N/A
+ConocoPhillips;no;no;yes;Energy;Mining, Crude-Oil Production;U.S.;Houston;Texas;yes;yes;no;no;no;no;yes;no;no;135;28;N/A
+Aviation Industry Corp. of China;no;yes;no;Aerospace & Defense;Aerospace & Defense;China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;-6;15;N/A
+Maersk Group;no;no;yes;Transportation;Shipping;Denmark;Copenhagen;N/A;yes;yes;no;yes;yes;no;no;no;yes;55;20;N/A
+Tesla;no;no;yes;Motor Vehicles & Parts;Motor Vehicles & Parts;U.S.;Austin;Texas;yes;no;no;yes;no;no;yes;no;no;90;3;N/A
+Hitachi;no;yes;no;Technology;Electronics, Electrical Equip.;Japan;Tokyo;N/A;yes;no;no;no;no;no;no;no;yes;-40;29;N/A
+Procter & Gamble;no;no;no;Household Products;Household and Personal Products;U.S.;Cincinnati;Ohio;yes;yes;no;yes;no;no;yes;no;no;N/A;29;N/A
+ArcelorMittal;no;yes;no;Materials;Metals;Luxembourg;Luxembourg;N/A;yes;yes;no;no;no;no;no;no;yes;-2;19;N/A
+Tesco;no;yes;no;Food & Drug Stores;Food & Drug Stores;Britain;Welwyn Garden City;N/A;yes;no;no;no;no;no;no;no;yes;-30;29;N/A
+Pacific Construction Group;no;yes;no;Engineering & Construction;Engineering & Construction;China;Urumqi;N/A;yes;no;no;no;no;no;no;no;yes;-7;10;N/A
+Oil & Natural Gas;no;no;yes;Energy;Mining, Crude-Oil Production;India;New Delhi;N/A;yes;no;no;no;no;no;no;no;yes;32;17;N/A
+U.S. Postal Service;no;yes;no;Transportation;Mail, Package, and Freight Delivery;U.S.;Washington;District Of Columbia;yes;no;no;no;no;no;no;no;no;-8;29;N/A
+Nissan Motor;no;no;yes;Motor Vehicles & Parts;Motor Vehicles & Parts;Japan;Yokohama;N/A;yes;no;no;no;no;no;no;no;yes;1;29;N/A
+Bank of Communications;no;yes;no;Financials;Banks: Commercial and Savings;China;Shanghai;N/A;yes;no;no;yes;no;no;no;no;yes;-6;15;N/A
+Siemens;no;yes;no;Industrials;Industrial Machinery;Germany;Munich;N/A;yes;yes;no;yes;no;no;no;no;yes;-3;29;N/A
+Jinneng Holding Group;no;no;no;Energy;Mining, Crude-Oil Production;China;Datong;N/A;yes;no;no;no;no;no;no;no;yes;N/A;11;N/A
+Albertsons;no;no;yes;Food & Drug Stores;Food & Drug Stores;U.S.;Boise;Idaho;yes;no;no;yes;no;no;yes;no;no;6;19;N/A
+Guangzhou Automobile Industry Group;no;no;yes;Motor Vehicles & Parts;Motor Vehicles & Parts;China;Guangzhou;N/A;yes;no;no;yes;no;no;no;no;yes;21;11;N/A
+Aluminum Corp. of China;no;yes;no;Materials;Metals;China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;-27;16;N/A
+General Electric;no;yes;no;Industrials;Industrial Machinery;U.S.;Boston;Massachusetts;yes;no;no;yes;no;no;yes;no;no;-2;29;N/A
+Taiwan Semiconductor Manufacturing;no;no;yes;Technology;Semiconductors and Other Electronic Components;Taiwan;Hsinchu;N/A;yes;yes;no;yes;no;no;no;no;yes;57;9;N/A
+Shaanxi Coal & Chemical Industry;no;no;yes;Energy;Mining, Crude-Oil Production;China;Xi'an;N/A;yes;no;no;yes;no;no;no;no;yes;40;9;N/A
+Munich Re Group;no;yes;no;Financials;Insurance: Property and Casualty (Stock);Germany;Munich;N/A;yes;yes;no;yes;no;no;no;no;yes;-37;29;N/A
+Jiangxi Copper;no;no;yes;Materials;Metals;China;Guixi;N/A;yes;no;no;yes;no;no;no;no;yes;5;11;N/A
+Shandong Weiqiao Pioneering Group;no;no;yes;Industrials;Textiles;China;Shandong;N/A;yes;no;no;yes;no;no;no;no;yes;27;12;N/A
+China Vanke;no;no;yes;Financials;Real estate;China;Shenzhen;N/A;yes;no;no;no;no;no;no;no;yes;5;8;N/A
+Wilmar International;no;no;yes;Food, Beverages & Tobacco;Food Production;Singapore;Singapore;N/A;yes;yes;no;no;no;no;no;no;yes;18;15;N/A
+China Merchants Group;no;yes;no;Transportation;Mail, Package, and Freight Delivery;China;Hong Kong;N/A;yes;no;no;yes;no;no;no;no;yes;-23;6;N/A
+Toyota Tsusho;no;yes;no;Wholesalers;Trading;Japan;Nagoya;N/A;yes;no;no;yes;no;no;no;no;yes;-4;15;N/A
+JBS;no;no;yes;Food, Beverages & Tobacco;Food Production;Brazil;Sao Paulo;N/A;yes;no;no;yes;no;no;no;no;yes;17;14;N/A
+Repsol;no;no;yes;Energy;Petroleum Refining;Spain;Madrid;N/A;yes;no;no;no;no;no;no;no;yes;73;29;N/A
+China Merchants Bank;no;yes;no;Financials;Banks: Commercial and Savings;China;Shenzhen;N/A;yes;no;no;yes;no;no;no;no;yes;-5;12;N/A
+BHP Group;no;no;yes;Energy;Mining, Crude-Oil Production;Australia;Melbourne;N/A;yes;yes;no;yes;no;no;no;no;yes;33;29;N/A
+Nippon Life Insurance;no;yes;no;Financials;Insurance: Life, Health (Mutual);Japan;Osaka;N/A;yes;no;no;no;no;no;no;no;yes;-17;29;N/A
+Dai-ichi Life Holdings;no;yes;no;Financials;Insurance: Life, Health (stock);Japan;Tokyo;N/A;yes;no;no;no;no;no;no;no;yes;-15;29;N/A
+MetLife;no;yes;no;Financials;Insurance: Life, Health (stock);U.S.;New York;New York;yes;yes;no;yes;no;no;yes;yes;no;-10;29;N/A
+Roche Group;no;yes;no;Health Care;Pharmaceuticals;Switzerland;Basel;N/A;yes;yes;no;yes;no;no;no;no;yes;-15;29;N/A
+Goldman Sachs Group;no;no;yes;Financials;Banks: Commercial and Savings;U.S.;New York;New York;yes;yes;no;yes;no;no;yes;no;no;10;24;N/A
+Sysco;no;no;yes;Wholesalers;Wholesalers: Food and Grocery;U.S.;Houston;Texas;yes;no;no;yes;no;no;yes;no;no;75;29;N/A
+Mitsubishi UFJ Financial Group;no;no;yes;Financials;Banks: Commercial and Savings;Japan;Tokyo;N/A;yes;no;no;no;no;no;no;no;yes;53;22;N/A
+Dongfeng Motor;no;yes;no;Motor Vehicles & Parts;Motor Vehicles & Parts;China;Wuhan;N/A;yes;no;no;no;no;no;no;no;yes;-66;14;N/A
+AEON;no;yes;no;Food & Drug Stores;Food & Drug Stores;Japan;Chiba;N/A;yes;no;no;yes;no;no;no;no;yes;-41;29;N/A
+Marubeni;no;yes;no;Wholesalers;Trading;Japan;Tokyo;N/A;yes;no;no;no;no;no;no;no;yes;-33;29;N/A
+China Poly Group;no;yes;no;Financials;Real estate;China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;-10;9;N/A
+China Pacific Insurance (Group);no;yes;no;Financials;Insurance: Life, Health (stock);China;Shanghai;N/A;yes;no;no;no;no;no;no;no;yes;-10;13;N/A
+Beijing Automotive Group;no;yes;no;Motor Vehicles & Parts;Motor Vehicles & Parts;China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;-31;11;N/A
+Bunge;no;no;yes;Food, Beverages & Tobacco;Food Production;U.S.;Chesterfield;Missouri;yes;yes;no;yes;no;no;no;no;no;25;21;N/A
+RTX;no;no;yes;Aerospace & Defense;Aerospace & Defense;U.S.;Arlington;Virginia;yes;yes;no;yes;no;no;yes;no;no;2;29;N/A
+Kia;no;no;yes;Motor Vehicles & Parts;Motor Vehicles & Parts;South Korea;Seoul;N/A;yes;no;no;no;no;no;no;no;yes;16;12;N/A
+Boeing;no;no;yes;Aerospace & Defense;Aerospace & Defense;U.S.;Arlington;Virginia;no;no;no;yes;no;no;yes;no;no;7;29;N/A
+StoneX Group;no;no;yes;Financials;Diversified Financials;U.S.;New York;New York;yes;no;no;yes;no;no;yes;no;no;129;13;N/A
+Lockheed Martin;no;yes;no;Aerospace & Defense;Aerospace & Defense;U.S.;Bethesda;Maryland;yes;yes;no;yes;no;no;yes;no;no;-14;29;N/A
+Morgan Stanley;no;no;yes;Financials;Banks: Commercial and Savings;U.S.;New York;New York;yes;yes;no;yes;no;no;yes;no;no;11;26;N/A
+POSCO Holdings;no;yes;no;Materials;Metals;South Korea;Seoul;N/A;yes;no;no;yes;no;no;no;no;yes;-13;29;N/A
+Vinci;no;no;yes;Engineering & Construction;Engineering & Construction;France;Nanterre;N/A;yes;no;no;yes;no;no;no;no;yes;16;23;N/A
+OMV Group;no;no;yes;Energy;Petroleum Refining;Austria;Vienna;N/A;yes;no;no;no;no;no;no;no;yes;127;15;N/A
+LG Electronics;no;yes;no;Technology;Electronics, Electrical Equip.;South Korea;Seoul;N/A;yes;yes;no;no;no;no;no;no;yes;-17;23;N/A
+Greenland Holding Group;no;yes;no;Financials;Real estate;China;Shanghai;N/A;yes;no;no;no;no;no;no;no;yes;-80;12;N/A
+Country Garden Holdings;no;yes;no;Financials;Real estate;China;Foshan;N/A;no;no;no;no;no;no;no;no;yes;-68;7;N/A
+Itaú Unibanco Holding;no;no;yes;Financials;Banks: Commercial and Savings;Brazil;Sao Paulo;N/A;yes;no;no;yes;no;no;no;no;yes;126;10;N/A
+Société Générale;no;no;yes;Financials;Banks: Commercial and Savings;France;Paris;N/A;yes;no;no;no;no;no;no;no;yes;12;27;N/A
+China Huaneng Group;no;no;yes;Energy;Energy;China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;6;15;N/A
+Unilever;no;yes;no;Household Products;Household and Personal Products;Britain;London;N/A;yes;yes;no;no;no;no;no;no;yes;-5;29;N/A
+Intel;no;yes;no;Technology;Semiconductors and Other Electronic Components;U.S.;Santa Clara;California;yes;no;no;yes;no;no;yes;no;no;-66;29;N/A
+BYD;no;no;yes;Motor Vehicles & Parts;Motor Vehicles & Parts;China;Shenzhen;N/A;yes;no;no;yes;no;no;no;no;yes;224;2;N/A
+HP;no;yes;no;Technology;Computers, Office Equipment;U.S.;Palo Alto;California;yes;yes;no;yes;no;no;yes;yes;no;-11;29;N/A
+Alimentation Couche-Tard;no;no;yes;Retailing;Specialty Retailers;Canada;Laval, Quebec;N/A;yes;no;no;no;no;no;no;no;yes;94;10;N/A
+TD Synnex;no;no;yes;Wholesalers;Wholesalers: Electronics and Office Equipment;U.S.;Fremont;California;yes;yes;no;yes;no;no;yes;no;no;236;3;N/A
+Orlen;no;no;yes;Energy;Petroleum Refining;Poland;Plock;N/A;yes;no;no;yes;no;no;no;no;yes;208;15;N/A
+Lenovo Group;no;yes;no;Technology;Computers, Office Equipment;China;Hong Kong;N/A;yes;yes;no;yes;no;no;no;no;yes;-46;14;N/A
+Panasonic Holdings;no;yes;no;Technology;Electronics, Electrical Equip.;Japan;Osaka;N/A;yes;no;no;no;no;no;no;no;yes;-25;29;N/A
+Airbus;no;yes;no;Aerospace & Defense;Aerospace & Defense;Netherlands;Leiden;N/A;yes;yes;no;yes;no;no;no;no;yes;-12;29;N/A
+Accenture;no;no;yes;Technology;Information Technology Services;Ireland;Dublin;N/A;yes;yes;yes;yes;no;no;no;yes;yes;48;22;N/A
+Idemitsu Kosan;no;no;yes;Energy;Petroleum Refining;Japan;Tokyo;N/A;yes;no;no;yes;no;no;no;no;yes;29;29;N/A
+Shenghong Holding Group;no;no;yes;Chemicals;Chemicals;China;Suzhou City;N/A;yes;no;no;yes;no;no;no;no;yes;19;4;N/A
+Industrial Bank;no;yes;no;Financials;Banks: Commercial and Savings;China;Fuzhou;N/A;yes;no;no;yes;no;no;no;no;yes;-15;11;N/A
+IBM;no;yes;no;Technology;Information Technology Services;U.S.;Armonk;New York;yes;yes;no;yes;yes;no;yes;no;no;-56;29;N/A
+Zhejiang Geely Holding Group;no;no;yes;Motor Vehicles & Parts;Motor Vehicles & Parts;China;Hangzhou;N/A;yes;no;no;yes;no;no;no;no;yes;4;12;N/A
+HCA Healthcare;no;yes;no;Health Care;Health Care: Medical Facilities;U.S.;Nashville;Tennessee;yes;yes;no;yes;no;no;yes;no;no;-5;29;N/A
+Prudential Financial;no;yes;no;Financials;Insurance: Life, Health (stock);U.S.;Newark;New Jersey;no;yes;no;no;no;no;yes;no;no;-52;29;N/A
+Louis Dreyfus;no;no;yes;Food, Beverages & Tobacco;Food Production;Netherlands;Rotterdam;N/A;yes;yes;no;yes;no;no;no;no;yes;48;10;N/A
+HBIS Group;no;yes;no;Materials;Metals;China;Shijiazhuang;N/A;yes;no;no;no;no;no;no;no;yes;-40;15;N/A
+Caterpillar;no;no;yes;Industrials;Construction and Farm Machinery;U.S.;Irving;Texas;yes;yes;no;yes;no;no;yes;no;no;35;29;N/A
+Merck;no;no;yes;Health Care;Pharmaceuticals;U.S.;Rahway;New Jersey;yes;yes;no;yes;yes;no;yes;yes;no;31;29;N/A
+Deutsche Bahn;no;yes;no;Transportation;Railroads;Germany;Berlin;N/A;no;no;no;yes;no;no;no;no;yes;-2;29;N/A
+Bharat Petroleum;no;no;yes;Energy;Petroleum Refining;India;Mumbai;N/A;yes;no;no;no;no;no;no;no;yes;62;20;N/A
+World Kinect;no;no;yes;Energy;Energy;U.S.;Miami;Florida;yes;no;no;yes;no;no;yes;no;no;221;11;N/A
+State Bank of India;no;no;yes;Financials;Banks: Commercial and Savings;India;Mumbai;N/A;yes;no;no;no;no;no;no;no;yes;1;18;N/A
+Nippon Steel Corporation;no;yes;no;Materials;Metals;Japan;Tokyo;N/A;yes;yes;no;no;no;no;no;no;yes;-22;29;N/A
+Energie Baden-Württemberg;no;no;yes;Energy;Utilities;Germany;Karlsruhe;N/A;yes;no;no;yes;no;no;no;no;yes;131;13;N/A
+New York Life Insurance;no;no;yes;Financials;Insurance: Life, Health (Mutual);U.S.;New York;New York;no;yes;no;no;no;no;yes;no;no;25;29;N/A
+Enterprise Products Partners;no;no;yes;Energy;Pipelines;U.S.;Houston;Texas;yes;no;no;yes;no;no;yes;no;no;104;13;N/A
+AbbVie;no;yes;no;Health Care;Pharmaceuticals;U.S.;North Chicago;Illinois;yes;no;no;no;no;no;yes;yes;no;-13;8;N/A
+Anheuser-Busch InBev;no;yes;no;Food, Beverages & Tobacco;Beverages;Belgium;Leuven;N/A;yes;yes;no;no;yes;no;no;no;yes;-2;18;N/A
+Tokyo Electric Power;no;no;yes;Energy;Utilities;Japan;Tokyo;N/A;no;no;no;yes;no;no;no;no;yes;48;29;N/A
+Plains GP Holdings;no;no;yes;Energy;Pipelines;U.S.;Houston;Texas;yes;no;no;no;no;no;yes;no;no;86;8;N/A
+Zhejiang Hengyi Group;no;no;yes;Chemicals;Chemicals;China;Hangzhou;N/A;no;no;no;no;no;no;no;no;yes;20;3;N/A
+Dow;no;yes;no;Chemicals;Chemicals;U.S.;Midland;Michigan;yes;yes;no;yes;no;no;yes;yes;no;-10;4;N/A
+Iberdrola;no;no;yes;Energy;Utilities;Spain;Bilbao;N/A;yes;no;no;yes;no;no;no;no;yes;58;19;N/A
+China National Building Material Group;no;yes;no;Materials;Building Materials, Glass;China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;-51;13;N/A
+American International Group;no;no;yes;Financials;Insurance: Property and Casualty (Stock);U.S.;New York;New York;yes;no;no;no;no;no;yes;no;no;7;28;N/A
+Talanx;no;yes;no;Financials;Insurance: Property and Casualty (Stock);Germany;Hannover;N/A;yes;no;no;no;no;no;no;no;yes;-5;10;N/A
+Sberbank;no;no;yes;Financials;Banks: Commercial and Savings;Russia;Moscow;N/A;yes;no;no;no;no;no;no;no;yes;20;16;N/A
+Banco do Brasil;no;no;yes;Financials;Banks: Commercial and Savings;Brazil;Brasilia;N/A;yes;no;yes;yes;no;no;no;no;yes;214;29;N/A
+China Electronics Technology Group;no;yes;no;Aerospace & Defense;Aerospace & Defense;China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;-19;8;N/A
+American Express;no;no;yes;Financials;Diversified Financials;U.S.;New York;New York;yes;yes;no;yes;no;no;yes;yes;no;67;29;N/A
+Rio Tinto Group;no;yes;no;Energy;Mining, Crude-Oil Production;Britain;London;N/A;yes;no;no;yes;no;no;no;no;yes;-53;18;N/A
+Publix Super Markets;no;no;yes;Food & Drug Stores;Food & Drug Stores;U.S.;Lakeland;Florida;yes;yes;no;yes;no;no;yes;no;no;28;29;N/A
+China Energy Engineering Group;no;no;yes;Engineering & Construction;Engineering & Construction;China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;13;10;N/A
+Tsingshan Holding Group;no;yes;no;Materials;Metals;China;Wenzhou;N/A;yes;no;no;yes;no;no;no;no;yes;-19;5;N/A
+Korea Electric Power;no;yes;no;Energy;Utilities;South Korea;Naju, Jeollanam-do;N/A;no;no;no;yes;no;no;no;no;yes;-9;29;N/A
+Koç Holding;no;no;yes;Energy;Energy;Turkey;Istanbul;N/A;yes;no;no;yes;no;no;no;no;yes;98;22;N/A
+Shanghai Pudong Development Bank;no;yes;no;Financials;Banks: Commercial and Savings;China;Shanghai;N/A;yes;no;no;yes;no;no;no;no;yes;-34;11;N/A
+Charter Communications;no;yes;no;Telecommunications;Telecommunications;U.S.;Stamford;Connecticut;yes;no;no;yes;no;no;yes;no;no;-2;7;N/A
+State Power Investment;no;yes;no;Energy;Energy;China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;-2;12;N/A
+Saint-Gobain;no;yes;no;Materials;Building Materials, Glass;France;Courbevoie;N/A;yes;no;no;yes;no;no;no;no;yes;-11;29;N/A
+Daimler Truck Holding;yes;N/A;N/A;Motor Vehicles & Parts;Motor Vehicles & Parts;Germany;Leinfelden-Echterdingen;N/A;yes;no;no;yes;no;no;no;no;yes;N/A;1;N/A
+Bayer;no;yes;no;Health Care;Pharmaceuticals;Germany;Leverkusen;N/A;yes;no;no;yes;no;no;no;no;yes;-11;29;N/A
+Tyson Foods;no;no;yes;Food, Beverages & Tobacco;Food Production;U.S.;Springdale;Arkansas;yes;yes;no;yes;no;no;yes;no;no;26;22;N/A
+China United Network Communications;no;no;no;Telecommunications;Telecommunications;China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;N/A;15;N/A
+Deere;no;no;yes;Industrials;Construction and Farm Machinery;U.S.;Moline;Illinois;yes;yes;no;yes;no;no;yes;no;no;50;29;N/A
+Shaanxi Yanchang Petroleum (Group);no;yes;no;Energy;Mining, Crude-Oil Production;China;X'ian;N/A;yes;no;no;yes;no;no;no;no;yes;-12;11;N/A
+Royal Bank of Canada;no;no;yes;Financials;Banks: Commercial and Savings;Canada;Toronto, Ontario;N/A;yes;yes;no;yes;no;no;no;no;yes;37;29;N/A
+Novartis;no;yes;no;Health Care;Pharmaceuticals;Switzerland;Basel;N/A;yes;yes;no;no;no;no;no;no;yes;-23;29;N/A
+China State Shipbuilding;no;yes;no;Transportation;Shipping;China;Shanghai;N/A;yes;no;no;no;no;no;no;no;yes;-29;3;N/A
+Banco Bradesco;no;no;yes;Financials;Banks: Commercial and Savings;Brazil;Osasco;N/A;yes;no;no;yes;no;no;no;no;yes;166;27;N/A
+Cisco Systems;no;no;no;Technology;Network and Other Communications Equipment;U.S.;San Jose;California;yes;no;no;yes;no;no;yes;yes;no;N/A;24;N/A
+Nationwide;no;no;yes;Financials;Insurance: Property and Casualty (Mutual);U.S.;Columbus;Ohio;yes;no;no;yes;no;no;yes;yes;no;14;29;N/A
+Allstate;no;yes;no;Financials;Insurance: Property and Casualty (Stock);U.S.;Northbrook;Illinois;no;no;no;no;no;no;yes;no;no;-30;28;N/A
+Cenovus Energy;no;no;yes;Energy;Mining, Crude-Oil Production;Canada;Calgary, Alberta;N/A;yes;no;no;yes;no;no;no;no;yes;107;2;N/A
+Midea Group;no;yes;no;Industrials;Electronics, Electrical Equip.;China;Foshan;N/A;yes;no;no;yes;no;no;no;no;yes;-33;8;N/A
+Sinomach;no;yes;no;Industrials;Industrial Machinery;China;Beijing;N/A;no;no;no;no;no;no;no;no;yes;-55;13;N/A
+Delta Air Lines;no;no;yes;Transportation;Airlines;U.S.;Atlanta;Georgia;yes;yes;no;yes;no;no;yes;no;no;198;28;N/A
+LyondellBasell Industries;no;no;yes;Chemicals;Chemicals;Netherlands;Rotterdam;N/A;yes;no;no;yes;no;no;no;no;yes;24;16;N/A
+Sumitomo;no;yes;no;Wholesalers;Trading;Japan;Tokyo;N/A;yes;no;no;yes;no;no;no;no;yes;-3;29;N/A
+Ansteel Group;no;yes;no;Materials;Metals;China;Anshan;N/A;yes;no;no;no;no;no;no;no;yes;-66;10;N/A
+Liberty Mutual Insurance Group;no;no;yes;Financials;Insurance: Property and Casualty (Stock);U.S.;Boston;Massachusetts;yes;no;no;yes;no;no;yes;no;no;1;29;N/A
+TJX;no;yes;no;Retailing;Specialty Retailers;U.S.;Framingham;Massachusetts;yes;yes;no;no;no;no;yes;no;no;-5;22;N/A
+Renault;no;yes;no;Motor Vehicles & Parts;Motor Vehicles & Parts;France;Boulogne-Billancourt;N/A;no;no;no;no;no;no;no;no;yes;-49;29;N/A
+Progressive;no;yes;no;Financials;Insurance: Property and Casualty (Stock);U.S.;Mayfield Village;Ohio;yes;yes;yes;yes;no;no;yes;yes;no;-1;10;N/A
+Edeka Zentrale;no;yes;no;Wholesalers;Wholesalers: Food and Grocery;Germany;Hamburg;N/A;yes;no;no;yes;no;no;no;no;yes;-32;25;N/A
+Jinchuan Group;no;no;yes;Materials;Metals;China;Jinchang City;N/A;yes;no;no;no;no;no;no;no;yes;50;5;N/A
+Tokio Marine Holdings;no;yes;no;Financials;Insurance: Property and Casualty (Stock);Japan;Tokyo;N/A;yes;no;no;yes;no;no;no;no;yes;-37;29;N/A
+American Airlines Group;no;no;yes;Transportation;Airlines;U.S.;Fort Worth;Texas;yes;no;no;yes;no;no;yes;no;no;188;28;N/A
+Contemporary Amperex Technology;yes;N/A;N/A;Motor Vehicles & Parts;Motor Vehicles & Parts;China;Ningde;N/A;yes;no;no;yes;no;no;no;no;yes;N/A;1;N/A
+Energi Danmark Group;yes;N/A;N/A;Energy;Energy;Denmark;Aarhus;N/A;yes;no;no;no;no;no;no;no;yes;N/A;1;N/A
+Toronto-Dominion Bank;no;no;yes;Financials;Banks: Commercial and Savings;Canada;Toronto, Ontario;N/A;yes;no;no;yes;no;no;no;no;yes;72;24;N/A
+SoftBank Group;no;yes;no;Telecommunications;Telecommunications;Japan;Tokyo;N/A;no;yes;no;yes;no;no;no;no;yes;-61;16;N/A
+Hanwha;no;no;yes;Financials;Diversified Financials;South Korea;Seoul;N/A;yes;no;no;yes;no;no;no;no;yes;10;18;N/A
+ING Group;no;no;yes;Financials;Banks: Commercial and Savings;Netherlands;Amsterdam;N/A;yes;no;no;yes;no;no;no;no;yes;128;29;N/A
+CHS;no;no;yes;Food, Beverages & Tobacco;Food Production;U.S.;Inver Grove Heights;Minnesota;yes;no;no;yes;no;no;yes;no;no;64;16;N/A
+Sanofi;no;no;yes;Health Care;Pharmaceuticals;France;Paris;N/A;yes;no;no;no;no;no;no;no;yes;4;19;N/A
+Groupe BPCE;no;yes;no;Financials;Banks: Commercial and Savings;France;Paris;N/A;yes;no;no;no;no;no;no;no;yes;-18;14;N/A
+Raízen;no;no;yes;Energy;Petroleum Refining;Brazil;Sao Paulo;N/A;yes;no;no;yes;no;no;no;no;yes;97;2;N/A
+Vodafone Group;no;yes;no;Telecommunications;Telecommunications;Britain;Newbury;N/A;yes;yes;yes;yes;no;no;no;no;yes;-55;24;N/A
+Denso;no;yes;no;Motor Vehicles & Parts;Motor Vehicles & Parts;Japan;Kariya;N/A;yes;no;no;no;no;no;no;no;yes;-25;29;N/A
+Performance Food Group;no;no;yes;Wholesalers;Wholesalers: Food and Grocery;U.S.;Richmond;Virginia;yes;no;no;yes;no;no;yes;no;no;164;3;N/A
+HD Hyundai;yes;N/A;N/A;Energy;Petroleum Refining;South Korea;Seongnam-si, Gyeonggi-do;N/A;yes;no;no;no;no;no;no;no;yes;N/A;1;N/A
+PBF Energy;yes;N/A;N/A;Energy;Petroleum Refining;U.S.;Parsippany;New Jersey;yes;no;no;yes;no;no;yes;no;no;N/A;2;N/A
+Volvo;no;no;yes;Motor Vehicles & Parts;Motor Vehicles & Parts;Sweden;Goteborg;N/A;yes;yes;no;yes;no;no;no;no;yes;16;29;N/A
+Nike;no;no;yes;Apparel;Apparel;U.S.;Beaverton;Oregon;yes;yes;no;yes;no;no;yes;no;no;5;17;N/A
+Bouygues;no;no;yes;Engineering & Construction;Engineering & Construction;France;Paris;N/A;yes;no;no;yes;no;no;no;no;yes;5;29;N/A
+Zhejiang Communications Investment Group;no;yes;no;Transportation;Transportation and Logistics;China;Hangzhou;N/A;yes;no;no;yes;no;no;no;no;yes;-8;3;N/A
+Best Buy;no;yes;no;Retailing;Specialty Retailers;U.S.;Richfield;Minnesota;yes;yes;yes;no;no;no;yes;no;no;-53;25;N/A
+Bristol-Myers Squibb;no;yes;no;Health Care;Pharmaceuticals;U.S.;New York;New York;yes;yes;no;yes;no;no;yes;no;no;-11;20;N/A
+Susun Construction Group;no;yes;no;Engineering & Construction;Engineering & Construction;China;Shanghai;N/A;yes;no;no;no;no;no;no;no;yes;-14;2;N/A
+Ingka Group;no;yes;no;Retailing;Specialty Retailers;Netherlands;Leiden;N/A;yes;no;no;yes;no;no;no;no;yes;-27;3;N/A
+ZF Friedrichshafen;no;yes;no;Motor Vehicles & Parts;Motor Vehicles & Parts;Germany;Friedrichshafen;N/A;yes;yes;no;yes;no;no;no;no;yes;-5;10;N/A
+Swiss Re;no;yes;no;Financials;Insurance: Property and Casualty (Stock);Switzerland;Zurich;N/A;yes;yes;no;yes;no;no;no;no;yes;-20;29;N/A
+EXOR Group;no;yes;no;Financials;Diversified Financials;Netherlands;Amsterdam;N/A;yes;no;no;yes;no;no;no;no;yes;-24;13;N/A
+Banco Bilbao Vizcaya Argentaria;no;no;yes;Financials;Banks: Commercial and Savings;Spain;Bilbao;N/A;yes;no;no;yes;no;no;no;no;yes;34;29;N/A
+Orange;no;yes;no;Telecommunications;Telecommunications;France;Issy-les-Moulineaux;N/A;yes;no;yes;no;no;no;no;no;yes;-48;29;N/A
+Jingye Group;no;no;yes;Materials;Metals;China;Shijiazhuang;N/A;yes;no;no;no;no;no;no;no;yes;66;3;N/A
+Sumitomo Mitsui Financial Group;no;no;yes;Financials;Banks: Commercial and Savings;Japan;Tokyo;N/A;yes;no;no;yes;no;no;no;no;yes;67;29;N/A
+GS Caltex;no;no;yes;Energy;Petroleum Refining;South Korea;Seoul;N/A;yes;no;no;yes;no;no;no;no;yes;148;11;N/A
+China Huadian;no;no;yes;Energy;Utilities;China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;3;12;N/A
+Veolia Environnement;no;no;yes;Energy;Utilities;France;Aubervilliers;N/A;yes;no;yes;yes;no;no;no;no;yes;103;21;N/A
+Barclays;no;no;yes;Financials;Banks: Commercial and Savings;Britain;London;N/A;yes;yes;no;yes;no;no;no;no;yes;49;29;N/A
+United Airlines Holdings;yes;N/A;N/A;Transportation;Airlines;U.S.;Chicago;Illinois;yes;yes;no;yes;no;no;yes;no;no;N/A;26;N/A
+Suncor Energy;no;no;yes;Energy;Petroleum Refining;Canada;Calgary, Alberta;N/A;yes;no;no;no;no;no;no;no;yes;130;13;N/A
+Thermo Fisher Scientific;no;no;yes;Health Care;Medical Products and Equipment;U.S.;Waltham;Massachusetts;yes;yes;no;yes;no;yes;yes;no;no;27;4;N/A
+China Minsheng Banking;no;yes;no;Financials;Banks: Commercial and Savings;China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;-56;11;N/A
+ThyssenKrupp;no;no;yes;Materials;Metals;Germany;Essen;N/A;yes;no;no;no;no;no;no;no;yes;14;29;N/A
+AstraZeneca;no;no;yes;Health Care;Pharmaceuticals;Britain;Cambridge;N/A;yes;yes;no;yes;no;no;no;no;yes;50;22;N/A
+Vale;no;yes;no;Energy;Mining, Crude-Oil Production;Brazil;Rio de Janeiro;N/A;yes;no;no;no;no;no;no;no;yes;-101;17;N/A
+Pegatron;no;yes;no;Technology;Electronics, Electrical Equip.;Taiwan;Taipei;N/A;yes;no;no;yes;no;no;no;no;yes;-22;11;N/A
+Qualcomm;no;no;yes;Technology;Semiconductors and Other Electronic Components;U.S.;San Diego;California;yes;yes;no;yes;yes;no;yes;no;no;95;6;N/A
+Woolworths Group;no;yes;no;Food & Drug Stores;Food & Drug Stores;Australia;Bella Vista;N/A;yes;no;no;no;no;no;no;no;yes;-63;27;N/A
+George Weston;no;yes;no;Food & Drug Stores;Food & Drug Stores;Canada;Toronto, Ontario;N/A;yes;no;no;yes;no;no;no;no;yes;-17;29;N/A
+Tata Motors;no;no;yes;Motor Vehicles & Parts;Motor Vehicles & Parts;India;Mumbai;N/A;yes;no;no;yes;no;no;no;no;yes;33;14;N/A
+Abbott Laboratories;no;yes;no;Health Care;Medical Products and Equipment;U.S.;Abbott Park;Illinois;yes;yes;no;yes;no;no;yes;no;no;-13;25;N/A
+KB Financial Group;no;no;yes;Financials;Banks: Commercial and Savings;South Korea;Seoul;N/A;yes;no;no;no;no;no;no;no;yes;43;11;N/A
+SNCF Group;no;yes;no;Transportation;Railroads;France;St. Denis;N/A;yes;no;no;yes;no;no;no;no;yes;-5;29;N/A
+China South Industries Group;no;yes;no;Aerospace & Defense;Aerospace & Defense;China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;-26;14;N/A
+Chubb;no;yes;no;Financials;Insurance: Property and Casualty (Stock);Switzerland;Zurich;N/A;yes;yes;no;yes;no;no;no;no;yes;-4;7;N/A
+GSK;no;yes;no;Health Care;Pharmaceuticals;Britain;Brentford;N/A;yes;no;yes;no;no;no;no;no;yes;-49;29;N/A
+Coca-Cola;no;no;yes;Food, Beverages & Tobacco;Beverages;U.S.;Atlanta;Georgia;yes;yes;no;yes;no;no;yes;no;no;15;29;N/A
+Quanta Computer;no;no;yes;Technology;Computers, Office Equipment;Taiwan;Taoyuan;N/A;yes;no;no;no;no;no;no;no;yes;4;18;N/A
+Fresenius;no;yes;no;Health Care;Health Care: Medical Facilities;Germany;Bad Homburg;N/A;yes;no;no;yes;no;no;no;no;yes;-30;14;N/A
+UBS Group;no;yes;no;Financials;Banks: Commercial and Savings;Switzerland;Zurich;N/A;yes;yes;no;yes;no;no;no;no;yes;-2;29;N/A
+Jiangsu Shagang Group;no;yes;no;Materials;Metals;China;Zhangjiagang;N/A;yes;no;no;no;no;no;no;no;yes;-57;15;N/A
+America Movil;no;yes;no;Telecommunications;Telecommunications;Mexico;Mexico City;N/A;yes;yes;no;no;no;no;no;no;yes;-74;17;N/A
+Mizuho Financial Group;no;no;yes;Financials;Banks: Commercial and Savings;Japan;Tokyo;N/A;yes;no;no;no;no;no;no;no;yes;54;23;N/A
+Shanghai Construction Group;no;yes;no;Engineering & Construction;Engineering & Construction;China;Shanghai;N/A;yes;no;no;no;no;no;no;no;yes;-30;4;N/A
+Oracle;no;yes;no;Technology;Computer Software;U.S.;Austin;Texas;yes;no;yes;yes;no;no;yes;no;no;-4;17;N/A
+Rajesh Exports;no;no;yes;Wholesalers;Trading;India;Bengaluru;N/A;yes;no;no;no;no;no;no;no;yes;84;8;N/A
+Deutsche Bank;no;yes;no;Financials;Banks: Commercial and Savings;Germany;Frankfurt;N/A;yes;no;no;yes;no;no;no;no;yes;-4;29;N/A
+Telefónica;no;yes;no;Telecommunications;Telecommunications;Spain;Madrid;N/A;yes;yes;no;no;no;no;no;no;yes;-55;29;N/A
+China National Coal Group;no;yes;no;Energy;Mining, Crude-Oil Production;China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;-59;4;N/A
+KDDI;no;yes;no;Telecommunications;Telecommunications;Japan;Tokyo;N/A;yes;no;no;yes;no;no;no;no;yes;-76;26;N/A
+Zurich Insurance Group;no;yes;no;Financials;Insurance: Property and Casualty (Stock);Switzerland;Zurich;N/A;yes;no;no;yes;no;no;no;no;yes;-179;29;N/A
+Shanxi Coking Coal Group;no;no;yes;Energy;Mining, Crude-Oil Production;China;Taiyuan;N/A;yes;no;no;yes;no;no;no;no;yes;72;10;N/A
+Xiaomi;no;yes;no;Technology;Electronics, Electrical Equip.;China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;-94;5;N/A
+Nucor;no;no;yes;Materials;Metals;U.S.;Charlotte;North Carolina;yes;yes;no;yes;no;no;yes;no;no;28;4;N/A
+Continental;no;yes;no;Motor Vehicles & Parts;Motor Vehicles & Parts;Germany;Hannover;N/A;yes;no;no;yes;no;no;no;no;yes;-50;21;N/A
+New Hope Holding Group;no;yes;no;Food, Beverages & Tobacco;Food Production;China;Chengdu;N/A;yes;no;no;no;no;no;no;no;yes;-7;3;N/A
+Kuehne + Nagel International;no;no;yes;Transportation;Transportation and Logistics;Switzerland;Schindellegi;N/A;yes;no;no;yes;no;no;no;no;yes;32;2;N/A
+Enbridge;no;no;yes;Energy;Pipelines;Canada;Calgary, Alberta;N/A;yes;no;no;yes;no;no;no;no;yes;10;10;N/A
+TIAA;no;yes;no;Financials;Insurance: Life, Health (Mutual);U.S.;New York;New York;yes;yes;yes;yes;no;no;yes;no;no;-19;26;N/A
+RWE;no;no;yes;Energy;Utilities;Germany;Essen;N/A;yes;no;no;no;no;no;no;no;yes;128;27;N/A
+China Electronics;no;yes;no;Technology;Electronics, Electrical Equip.;China;Shenzhen;N/A;no;no;no;no;no;no;no;no;yes;-44;13;N/A
+Massachusetts Mutual Life Insurance;no;no;yes;Financials;Insurance: Life, Health (Mutual);U.S.;Springfield;Massachusetts;yes;yes;no;yes;no;no;yes;no;no;26;26;N/A
+L'Oréal;no;yes;no;Household Products;Household and Personal Products;France;Clichy;N/A;yes;yes;no;yes;no;no;no;no;yes;-3;29;N/A
+LG Chem;no;yes;no;Chemicals;Chemicals;South Korea;Seoul;N/A;yes;no;no;no;no;no;no;no;yes;-2;4;N/A
+Hyundai Mobis;no;no;yes;Motor Vehicles & Parts;Motor Vehicles & Parts;South Korea;Seoul;N/A;yes;no;no;no;no;no;no;no;yes;18;12;N/A
+Zijin Mining Group;no;no;yes;Materials;Metals;China;Longyan;N/A;yes;no;no;yes;no;no;no;no;yes;34;3;N/A
+Korea Gas;yes;N/A;N/A;Energy;Utilities;South Korea;Daegu;N/A;yes;no;yes;no;no;no;no;no;yes;N/A;8;N/A
+Meiji Yasuda Life Insurance;no;no;yes;Financials;Insurance: Life, Health (Mutual);Japan;Tokyo;N/A;yes;no;no;no;no;no;no;no;yes;2;29;N/A
+Olam Group;no;no;yes;Wholesalers;Wholesalers: Food and Grocery;Singapore;Singapore;N/A;yes;no;no;no;no;no;no;no;yes;30;3;N/A
+S.F. Holding;no;no;yes;Transportation;Transportation and Logistics;China;Shenzhen;N/A;yes;no;no;no;no;no;no;no;yes;64;2;N/A
+CPC;no;no;yes;Energy;Petroleum Refining;Taiwan;Kaohsiung;N/A;no;no;no;yes;no;no;no;no;yes;97;22;N/A
+General Dynamics;no;yes;no;Aerospace & Defense;Aerospace & Defense;U.S.;Reston;Virginia;yes;yes;yes;yes;no;no;yes;no;no;-18;23;N/A
+Guangzhou Municipal Construction Group;no;yes;no;Engineering & Construction;Engineering & Construction;China;Guangzhou;N/A;yes;no;no;yes;no;no;no;no;yes;-20;3;N/A
+China National Nuclear;no;yes;no;Energy;Energy;China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;-17;4;N/A
+JFE Holdings;no;yes;no;Materials;Metals;Japan;Tokyo;N/A;yes;no;no;no;no;no;no;no;yes;-24;21;N/A
+Intesa Sanpaolo;no;yes;no;Financials;Banks: Commercial and Savings;Italy;Turin;N/A;yes;no;no;no;no;no;no;no;yes;-85;25;N/A
+MS&AD Insurance Group Holdings;no;yes;no;Financials;Insurance: Property and Casualty (Stock);Japan;Tokyo;N/A;yes;no;no;no;no;no;no;no;yes;-75;25;N/A
+China Taiping Insurance Group;no;yes;no;Financials;Insurance: Life, Health (Mutual);China;Hong Kong;N/A;yes;no;no;no;no;no;no;no;yes;-51;6;N/A
+Capital One Financial;no;no;yes;Financials;Banks: Commercial and Savings;U.S.;McLean;Virginia;yes;yes;no;yes;no;no;yes;yes;no;57;13;N/A
+HF Sinclair;yes;N/A;N/A;Energy;Petroleum Refining;U.S.;Dallas;Texas;yes;no;no;yes;no;no;yes;no;no;N/A;1;N/A
+Phoenix Pharma;no;no;yes;Health Care;Wholesalers: Health Care;Germany;Mannheim;N/A;yes;no;no;yes;no;no;no;no;yes;6;13;N/A
+Shudao Investment Group;no;no;yes;Engineering & Construction;Engineering & Construction;China;Chengdu;N/A;yes;no;no;no;no;no;no;no;yes;24;2;N/A
+J. Sainsbury;no;yes;no;Food & Drug Stores;Food & Drug Stores;Britain;London;N/A;yes;no;no;no;no;no;no;no;yes;-48;29;N/A
+Shenzhen Investment Holdings;no;yes;no;Financials;Diversified Financials;China;Shenzhen;N/A;yes;no;no;yes;no;no;no;no;yes;-19;4;N/A
+Nutrien;yes;N/A;N/A;Food, Beverages & Tobacco;Food Production;Canada;Saskatoon, Saskatchewan;N/A;yes;no;no;yes;no;no;no;no;yes;N/A;1;N/A
+Dollar General;no;no;yes;Retailing;Specialty Retailers;U.S.;Goodlettsville;Tennessee;yes;yes;no;yes;no;no;yes;no;no;26;6;N/A
+Magna International;no;yes;no;Motor Vehicles & Parts;Motor Vehicles & Parts;Canada;Aurora, Ontario;N/A;yes;yes;no;no;no;no;no;no;yes;-2;23;N/A
+Jardine Matheson;no;no;yes;Motor Vehicles & Parts;Motor Vehicles & Parts;China;Hong Kong;N/A;yes;no;no;yes;no;no;no;no;yes;2;24;N/A
+China Datang;no;no;yes;Energy;Energy;China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;15;14;N/A
+Ecopetrol;yes;N/A;N/A;Energy;Mining, Crude-Oil Production;Colombia;Bogota;N/A;yes;no;no;yes;no;no;no;no;yes;N/A;6;N/A
+X5 Retail Group;no;no;yes;Food & Drug Stores;Food & Drug Stores;Netherlands;Amsterdam;N/A;yes;no;no;yes;no;no;no;no;yes;79;4;N/A
+Power Corp. of Canada;no;yes;no;Financials;Insurance: Life, Health (stock);Canada;Montreal, Quebec;N/A;yes;no;no;yes;no;no;no;no;yes;-167;25;N/A
+China Aerospace Science & Industry;no;yes;no;Aerospace & Defense;Aerospace & Defense;China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;-59;8;N/A
+GasTerra;yes;N/A;N/A;Energy;Utilities;Netherlands;Groningen;N/A;yes;no;yes;no;no;no;no;no;yes;N/A;11;N/A
+Longfor Group Holdings;no;no;yes;Financials;Real estate;China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;10;3;N/A
+La Poste;no;yes;no;Transportation;Mail, Package, and Freight Delivery;France;Paris;N/A;yes;yes;no;no;no;no;no;no;yes;-63;28;N/A
+Arrow Electronics;no;no;yes;Wholesalers;Wholesalers: Electronics and Office Equipment;U.S.;Centennial;Colorado;yes;yes;no;yes;no;no;yes;no;no;11;10;N/A
+Occidental Petroleum;yes;N/A;N/A;Energy;Mining, Crude-Oil Production;U.S.;Houston;Texas;yes;yes;yes;yes;no;no;yes;no;no;N/A;16;N/A
+Caixa Econômica Federal;yes;N/A;N/A;Financials;Banks: Commercial and Savings;Brazil;Brasilia;N/A;yes;no;yes;yes;no;no;no;no;yes;N/A;3;N/A
+Mitsubishi Electric;no;yes;no;Industrials;Electronics, Electrical Equip.;Japan;Tokyo;N/A;yes;no;no;yes;no;no;no;no;yes;-56;29;N/A
+Northwestern Mutual;no;yes;no;Financials;Insurance: Life, Health (Mutual);U.S.;Milwaukee;Wisconsin;yes;no;no;yes;no;no;yes;no;no;-21;29;N/A
+Travelers;no;no;yes;Financials;Insurance: Property and Casualty (Stock);U.S.;New York;New York;yes;yes;no;yes;no;no;yes;no;no;1;20;N/A
+Shougang Group;no;yes;no;Materials;Metals;China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;-82;12;N/A
+Hangzhou Iron and Steel Group;no;yes;no;Materials;Metals;China;Hangzhou;N/A;yes;no;no;yes;no;no;no;no;yes;-75;2;N/A
+Xinjiang Zhongtai Group;no;no;yes;Chemicals;Chemicals;China;Urumqi;N/A;yes;no;no;yes;no;no;no;no;yes;22;2;N/A
+Northrop Grumman;no;yes;no;Aerospace & Defense;Aerospace & Defense;U.S.;Falls Church;Virginia;yes;yes;yes;yes;no;no;yes;no;no;-14;24;N/A
+Guangzhou Industrial Investment Holdings;yes;N/A;N/A;Industrials;Industrial Machinery;China;Guangzhou;N/A;yes;no;no;yes;no;no;no;no;yes;N/A;1;N/A
+Bank of Nova Scotia;no;no;yes;Financials;Banks: Commercial and Savings;Canada;Toronto, Ontario;N/A;yes;no;no;yes;no;no;no;no;yes;41;26;N/A
+Hapag-Lloyd;yes;N/A;N/A;Transportation;Shipping;Germany;Hamburg;N/A;yes;no;no;yes;no;no;no;no;yes;N/A;1;N/A
+USAA;no;yes;no;Financials;Insurance: Property and Casualty (Stock);U.S.;San Antonio;Texas;no;yes;no;no;no;no;yes;no;no;-38;10;N/A
+Daiwa House Industry;no;yes;no;Engineering & Construction;Engineering & Construction;Japan;Osaka;N/A;yes;no;no;yes;no;no;no;no;yes;-64;19;N/A
+Haier Smart Home;no;yes;no;Industrials;Electronics, Electrical Equip.;China;Qingdao;N/A;yes;yes;no;yes;no;no;no;no;yes;-14;6;N/A
+Compal Electronics;no;yes;no;Technology;Computers, Office Equipment;Taiwan;Taipei;N/A;yes;no;no;no;no;no;no;no;yes;-103;12;N/A
+Schneider Electric;no;yes;no;Industrials;Electronics, Electrical Equip.;France;Rueil-Malmaison;N/A;yes;yes;no;yes;no;no;no;no;yes;-1;22;N/A
+Finatis;no;yes;no;Food & Drug Stores;Food & Drug Stores;France;Paris;N/A;no;no;no;no;no;no;no;no;yes;-42;9;N/A
+ELO Group;no;yes;no;Food & Drug Stores;Food & Drug Stores;France;Croix;N/A;yes;no;no;yes;no;no;no;no;yes;-52;27;N/A
+Naturgy Energy Group;yes;N/A;N/A;Energy;Utilities;Spain;Madrid;N/A;yes;no;no;no;no;no;no;no;yes;N/A;13;N/A
+Honeywell International;no;yes;no;Industrials;Electronics, Electrical Equip.;U.S.;Charlotte;North Carolina;yes;yes;no;no;no;no;yes;no;no;-8;29;N/A
+Guangzhou Pharmaceutical Holdings;no;no;yes;Health Care;Pharmaceuticals;China;Guangzhou;N/A;yes;no;no;yes;no;no;no;no;yes;41;3;N/A
+Guangdong Guangxin Holdings;yes;N/A;N/A;Financials;Diversified Financials;China;Guangzhou;N/A;yes;no;no;yes;no;no;no;no;yes;N/A;1;N/A
+ACS;no;yes;no;Engineering & Construction;Engineering & Construction;Spain;Madrid;N/A;yes;no;no;yes;no;no;no;no;yes;-63;19;N/A
+Vibra Energia;yes;N/A;N/A;Energy;Petroleum Refining;Brazil;Rio de Janeiro;N/A;yes;no;no;no;no;no;no;no;yes;N/A;1;N/A
+Anglo American;no;yes;no;Energy;Mining, Crude-Oil Production;Britain;London;N/A;yes;no;no;no;no;no;no;no;yes;-99;22;N/A
+Taikang Insurance Group;no;yes;no;Financials;Insurance: Life, Health (Mutual);China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;-85;6;N/A
+Shaanxi Construction Engineering Holding;yes;N/A;N/A;Engineering & Construction;Engineering & Construction;China;X'ian;N/A;yes;no;no;yes;no;no;no;no;yes;N/A;1;N/A
+Bank of Montreal;yes;N/A;N/A;Financials;Banks: Commercial and Savings;Canada;Toronto, Ontario;N/A;yes;no;no;yes;no;no;no;no;yes;N/A;13;N/A
+CRRC Group;no;yes;no;Industrials;Industrial Machinery;China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;-49;5;N/A
+Coop Group;no;yes;no;Food & Drug Stores;Food & Drug Stores;Switzerland;Basel;N/A;yes;no;no;no;no;no;no;no;yes;-7;14;N/A
+TongLing Nonferrous Metals Group;no;yes;no;Materials;Metals;China;Tongling;N/A;yes;no;no;yes;no;no;no;no;yes;-36;5;N/A
+SK Hynix;no;yes;no;Technology;Semiconductors and Other Electronic Components;South Korea;Icheon-si, Gyeonggi-do;N/A;yes;no;no;no;no;no;no;no;yes;-64;5;N/A
+Shanghai Pharmaceuticals Holding;no;yes;no;Health Care;Wholesalers: Health Care;China;Shanghai;N/A;yes;no;no;yes;no;no;no;no;yes;-8;4;N/A
+Lufthansa Group;yes;N/A;N/A;Transportation;Airlines;Germany;Cologne;N/A;yes;yes;no;yes;no;no;no;no;yes;N/A;27;N/A
+Shandong Hi-Speed Group;no;no;yes;Transportation;Transportation and Logistics;China;Jinan;N/A;yes;no;no;yes;no;no;no;no;yes;18;2;N/A
+Suzuki Motor;no;no;yes;Motor Vehicles & Parts;Motor Vehicles & Parts;Japan;Hamamatsu;N/A;yes;no;no;yes;no;no;no;no;yes;8;29;N/A
+Mitsubishi Chemical Group;no;yes;no;Chemicals;Chemicals;Japan;Tokyo;N/A;yes;no;no;no;no;no;no;no;yes;-41;29;N/A
+3M;no;yes;no;Chemicals;Chemicals;U.S.;St. Paul;Minnesota;yes;yes;no;no;no;no;yes;no;no;-41;29;N/A
+Inditex;no;yes;no;Retailing;Specialty Retailers;Spain;Arteixo;N/A;yes;no;no;no;no;no;no;no;yes;-6;7;N/A
+British American Tobacco;no;yes;no;Food, Beverages & Tobacco;Tobacco;Britain;London;N/A;yes;no;no;no;no;no;no;no;yes;-42;26;N/A
+US Foods Holding;no;no;yes;Wholesalers;Wholesalers: Food and Grocery;U.S.;Rosemont;Illinois;yes;no;no;yes;no;no;yes;no;no;39;6;N/A
+Sompo Holdings;no;yes;no;Financials;Insurance: Property and Casualty (Stock);Japan;Tokyo;N/A;yes;no;no;yes;no;no;no;no;yes;-64;27;N/A
+Magnit;yes;N/A;N/A;Food & Drug Stores;Food & Drug Stores;Russia;Krasnodar;N/A;yes;no;no;no;no;no;no;no;yes;N/A;1;N/A
+Warner Bros. Discovery;yes;N/A;N/A;Media;Entertainment;U.S.;New York;New York;no;yes;no;yes;no;no;yes;no;no;N/A;1;N/A
+Lennar;yes;N/A;N/A;Engineering & Construction;Homebuilders;U.S.;Miami;Florida;yes;yes;no;yes;no;no;yes;no;no;N/A;3;N/A
+Shanghai Delong Steel Group;no;no;yes;Materials;Metals;China;Shanghai;N/A;yes;no;no;yes;no;no;no;no;yes;18;2;N/A
+Poste Italiane;no;yes;no;Financials;Insurance: Life, Health (stock);Italy;Rome;N/A;yes;no;no;yes;yes;no;no;no;yes;-74;18;N/A
+CK Hutchison Holdings;no;yes;no;Retailing;Specialty Retailers;China;Hong Kong;N/A;yes;no;no;no;no;no;no;no;yes;-60;8;N/A
+Fomento Económico Mexicano;yes;N/A;N/A;Food, Beverages & Tobacco;Beverages;Mexico;Monterrey;N/A;yes;no;no;yes;no;no;no;no;yes;N/A;4;N/A
+D.R. Horton;yes;N/A;N/A;Engineering & Construction;Homebuilders;U.S.;Arlington;Texas;yes;yes;no;yes;no;yes;yes;no;no;N/A;3;N/A
+Jabil;no;no;yes;Technology;Semiconductors and Other Electronic Components;U.S.;St. Petersburg;Florida;yes;no;no;yes;no;no;yes;no;no;34;3;N/A
+Samsung C&T;no;no;yes;Wholesalers;Trading;South Korea;Seoul;N/A;yes;no;no;yes;no;no;no;no;yes;17;7;N/A
+Cheniere Energy;yes;N/A;N/A;Energy;Pipelines;U.S.;Houston;Texas;yes;no;no;yes;no;no;yes;no;no;N/A;1;N/A
+CRH;no;no;yes;Materials;Building Materials, Glass;Ireland;Dublin;N/A;yes;no;no;no;no;no;no;no;yes;1;20;N/A
+Linde;no;no;yes;Chemicals;Chemicals;Britain;Woking, Surrey;N/A;yes;no;no;no;no;no;no;no;yes;3;4;N/A
+DSV;no;no;yes;Transportation;Mail, Package, and Freight Delivery;Denmark;Hedehusene;N/A;yes;yes;no;no;no;no;no;no;yes;35;2;N/A
+Broadcom;yes;N/A;N/A;Technology;Semiconductors and Other Electronic Components;U.S.;San Jose;California;yes;no;no;no;no;no;yes;no;no;N/A;1;N/A
+Wistron;no;yes;no;Technology;Computers, Office Equipment;Taiwan;Taipei;N/A;yes;yes;no;no;no;no;no;no;yes;-1;8;N/A
+Anhui Conch Group;no;yes;no;Materials;Building Materials, Glass;China;Wuhu;N/A;yes;no;no;yes;no;no;no;no;yes;-111;5;N/A
+Beijing Jianlong Heavy Industry Group;no;yes;no;Materials;Metals;China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;-102;3;N/A
+Hunan Iron & Steel Group;no;yes;no;Materials;Metals;China;Changsha;N/A;yes;no;no;yes;no;no;no;no;yes;-45;2;N/A
+Meituan;yes;N/A;N/A;Retailing;Internet Services and Retailing;China;Beijing;N/A;no;no;no;no;no;no;no;no;yes;N/A;1;N/A
+Lu’an Chemical Group;no;yes;no;Energy;Mining, Crude-Oil Production;China;Changzhi;N/A;yes;no;no;yes;no;no;no;no;yes;-46;10;N/A
+Compass Group;yes;N/A;N/A;Hotels, Restaurants & Leisure;Food Services;Britain;Chertsey;N/A;yes;yes;no;yes;no;no;no;no;yes;N/A;21;N/A
+Aisin;no;yes;no;Motor Vehicles & Parts;Motor Vehicles & Parts;Japan;Kariya;N/A;yes;no;no;no;no;no;no;no;yes;-61;22;N/A
+Canadian Natural Resources;yes;N/A;N/A;Energy;Mining, Crude-Oil Production;Canada;Calgary, Alberta;N/A;yes;no;no;yes;no;no;no;no;yes;N/A;1;N/A
+SAP;no;yes;no;Technology;Computer Software;Germany;Walldorf;N/A;yes;yes;no;yes;no;no;no;no;yes;-39;8;N/A
+Starbucks;no;no;yes;Hotels, Restaurants & Leisure;Food Services;U.S.;Seattle;Washington;yes;yes;no;yes;no;no;yes;no;no;19;3;N/A
+Metro;no;no;yes;Wholesalers;Wholesalers: Food and Grocery;Germany;N/A;N/A;no;no;no;yes;no;no;no;no;yes;8;6;N/A
+Molina Healthcare;yes;N/A;N/A;Health Care;Health Care: Insurance and Managed Care;U.S.;Long Beach;California;yes;no;no;yes;no;no;yes;no;no;N/A;1;N/A
+Tongwei Group;yes;N/A;N/A;Energy;Energy;China;Chengdu;N/A;yes;no;no;yes;no;no;no;no;yes;N/A;1;N/A
+Uber Technologies;yes;N/A;N/A;Technology;Internet Services and Retailing;U.S.;San Francisco;California;no;yes;no;yes;no;no;yes;no;no;N/A;1;N/A
+New China Life Insurance;no;yes;no;Financials;Insurance: Life, Health (stock);China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;-62;5;N/A
+Luxshare Precision Industry;yes;N/A;N/A;Technology;Electronics, Electrical Equip.;China;Dongguan;N/A;yes;no;yes;yes;no;no;no;no;yes;N/A;1;N/A
+Philip Morris International;no;yes;no;Food, Beverages & Tobacco;Tobacco;U.S.;Stamford;Connecticut;yes;no;no;yes;no;no;yes;no;no;-26;15;N/A
+CJ Corp.;no;yes;no;Food, Beverages & Tobacco;Food Production;South Korea;Seoul;N/A;yes;no;no;yes;no;no;no;no;yes;-9;6;N/A
+Medtronic;no;yes;no;Health Care;Medical Products and Equipment;Ireland;Dublin;N/A;yes;yes;no;yes;yes;no;no;no;yes;-9;7;N/A
+China National Aviation Fuel Group;no;yes;no;Wholesalers;Trading;China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;-69;12;N/A
+Netflix;no;yes;no;Media;Entertainment;U.S.;Los Gatos;California;yes;yes;no;yes;no;no;yes;no;no;-3;3;N/A
+Migros Group;no;yes;no;Food & Drug Stores;Food & Drug Stores;Switzerland;Zurich;N/A;yes;no;no;yes;no;no;no;no;yes;-35;29;N/A
+NRG Energy;yes;N/A;N/A;Energy;Energy;U.S.;Houston;Texas;yes;no;no;no;no;yes;yes;no;no;N/A;1;N/A
+Mondelez International;no;no;yes;Food, Beverages & Tobacco;Food Consumer Products;U.S.;Chicago;Illinois;yes;yes;no;yes;no;no;yes;no;no;11;16;N/A
+Air Liquide;yes;N/A;N/A;Chemicals;Chemicals;France;Paris;N/A;yes;no;no;yes;no;no;no;no;yes;N/A;3;N/A
+Danaher;no;yes;no;Health Care;Medical Products and Equipment;U.S.;Washington;District Of Columbia;yes;yes;no;yes;no;yes;yes;no;no;-3;2;N/A
+Siemens Energy;no;yes;no;Energy;Energy;Germany;Munich;N/A;no;no;no;no;no;no;no;no;yes;-67;3;N/A
+Salesforce;yes;N/A;N/A;Technology;Computer Software;U.S.;San Francisco;California;yes;yes;no;yes;no;no;yes;yes;no;N/A;1;N/A
+Paramount Global;no;yes;no;Media;Entertainment;U.S.;New York;New York;yes;no;no;yes;no;no;yes;no;no;-9;15;N/A
+Chengdu Xingcheng Investment Group;no;yes;no;Engineering & Construction;Engineering & Construction;China;Chengdu;N/A;yes;no;no;yes;no;no;no;no;yes;-27;2;N/A
+Bridgestone;no;yes;no;Motor Vehicles & Parts;Motor Vehicles & Parts;Japan;Tokyo;N/A;yes;no;no;no;no;no;no;no;yes;-10;29;N/A
+Guangxi Investment Group;no;yes;no;Financials;Diversified Financials;China;Nanning;N/A;yes;no;no;no;no;no;no;no;yes;-50;4;N/A
+Samsung Life Insurance;no;yes;no;Financials;Insurance: Life, Health (stock);South Korea;Seoul;N/A;yes;no;no;yes;no;no;no;no;yes;-32;27;N/A
+Sumitomo Life Insurance;no;yes;no;Financials;Insurance: Life, Health (Mutual);Japan;Osaka;N/A;yes;no;no;yes;no;no;no;no;yes;-55;29;N/A
+CarMax;no;yes;no;Retailing;Specialty Retailers;U.S.;Richmond;Virginia;yes;no;no;no;no;no;yes;yes;no;-66;2;N/A
+Mitsubishi Heavy Industries;no;yes;no;Industrials;Industrial Machinery;Japan;Tokyo;N/A;yes;no;no;no;no;no;no;no;yes;-81;29;N/A
+Xinjiang Guanghui Industry Investment;no;yes;no;Wholesalers;Trading;China;Urumqi;N/A;yes;no;no;yes;no;no;no;no;yes;-47;7;N/A
+Fortum;no;no;yes;Energy;Energy;Finland;Espoo;N/A;yes;no;no;no;no;no;no;no;yes;130;6;N/A
+Lukoil;no;no;yes;Energy;Petroleum Refining;Russia;Moscow;N/A;yes;no;no;yes;no;no;no;no;yes;58;23;N/A
+Rosneft Oil;no;no;yes;Energy;Petroleum Refining;Russia;Moscow;N/A;yes;no;no;no;no;no;no;no;yes;77;17;N/A
+Aviva;no;yes;no;Financials;Insurance: Life, Health (Stock);Britain;London;N/A;yes;no;yes;no;no;no;no;no;yes;-41;27;N/A
+Aegon;no;yes;no;Financials;Insurance: Life, Health (Stock);Netherlands;The Hague;N/A;yes;no;no;no;no;no;no;no;yes;-28;26;N/A
+Legal & General Group;no;yes;no;Financials;Insurance: Life, Health (Stock);Britain;London;N/A;yes;no;no;yes;no;no;no;no;yes;-50;21;N/A
+China Everbright Group;no;yes;no;Financials;Banks: Commercial and Savings;China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;-16;8;N/A
+Lloyds Banking Group;no;no;yes;Financials;Banks: Commercial and Savings;Britain;London;N/A;yes;no;no;no;no;no;no;no;yes;45;28;N/A
+CMA CGM;no;no;yes;Transportation;Shipping;France;Marseille;N/A;yes;no;no;no;no;no;no;no;yes;165;3;N/A
+Manulife Financial;no;yes;no;Financials;Insurance: Life, Health (Stock);Canada;Toronto, Ontario;N/A;yes;no;no;yes;no;no;no;no;yes;-108;20;N/A
+AIA Group;no;yes;no;Financials;Insurance: Life, Health (Stock);China;Hong Kong;N/A;yes;no;no;yes;no;no;no;no;yes;-75;8;N/A
+China Aerospace Science & Technology;no;yes;no;Aerospace & Defense;Aerospace & Defense;China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;-15;8;N/A
+Shandong Iron & Steel Group;no;no;yes;Materials;Metals;China;Jinan;N/A;yes;no;no;no;no;no;no;no;yes;52;3;N/A
+DZ Bank;no;no;yes;Financials;Banks: Commercial and Savings;Germany;Frankfurt;N/A;yes;no;no;yes;no;no;no;no;yes;5;28;N/A
+Cathay Financial Holding;no;yes;no;Financials;Insurance: Life, Health (Stock);Taiwan;Taipei;N/A;yes;no;no;no;no;no;no;no;yes;-30;21;N/A
+Exelon;no;yes;no;Energy;Utilities;U.S.;Chicago;Illinois;yes;yes;no;no;no;no;yes;no;no;-22;19;N/A
+Heraeus Holding;no;yes;no;Materials;Metals;Germany;Hanau;N/A;yes;no;no;yes;no;no;no;no;yes;-73;10;N/A
+Phoenix Group Holdings;no;no;yes;Financials;Insurance: Life, Health (Stock);Britain;London;N/A;no;no;no;yes;no;no;no;no;yes;1;3;N/A
+Tata Steel;yes;no;no;Materials;Metals;India;Fort Mumbai;N/A;yes;no;no;no;no;no;no;no;yes;N/A;8;N/A
+Fubon Financial Holding;no;yes;no;Financials;Insurance: Life, Health (Stock);Taiwan;Taipei;N/A;yes;no;no;yes;no;no;no;no;yes;-52;5;N/A
+Canon;no;yes;no;Technology;Computers, Office Equipment;Japan;Tokyo;N/A;yes;no;no;yes;no;no;no;no;yes;-30;28;N/A
+Fujitsu;no;yes;no;Technology;Information Technology Services;Japan;Tokyo;N/A;yes;yes;no;no;no;no;no;no;yes;-88;28;N/A
+Yunnan Provincial Investment Holding Group;no;no;yes;Financials;Diversified Financials;China;Kunming;N/A;yes;no;no;yes;no;no;no;no;yes;24;2;N/A
+Takeda Pharmaceutical;no;yes;no;Health Care;Pharmaceuticals;Japan;Tokyo;N/A;yes;no;no;yes;no;no;no;no;yes;-39;3;N/A
+Weichai Power;no;yes;no;Industrials;Industrial Machinery;China;Weifang;N/A;yes;no;no;yes;no;no;no;no;yes;-27;2;N/A
+Hailiang Group;no;yes;no;Wholesalers;Trading;China;Hangzhou;N/A;yes;no;no;yes;no;no;no;no;yes;-31;4;N/A
+Investor;yes;no;no;Financials;Diversified Financials;Sweden;Stockholm;N/A;yes;no;no;yes;no;no;no;no;yes;N/A;1;N/A
+Mercadona;yes;no;no;Food & Drug Stores;Food & Drug Stores;Spain;Valencia;N/A;yes;no;no;yes;no;no;no;no;yes;N/A;1;N/A
+Sumitomo Electric Industries;no;yes;no;Motor Vehicles & Parts;Motor Vehicles & Parts;Japan;Osaka;N/A;yes;no;no;no;no;no;no;no;yes;-34;28;N/A
+Toshiba;no;yes;no;Technology;Electronics, Electrical Equip.;Japan;Tokyo;N/A;yes;no;no;no;no;no;no;no;yes;-60;27;N/A
+Gree Electric Appliances;no;no;yes;Industrials;Electronics, Electrical Equip.;China;Zhuhai;N/A;yes;no;yes;no;no;no;no;no;yes;1;4;N/A
+Holcim;no;no;yes;Materials;Building Materials, Glass;Switzerland;Zug;N/A;yes;no;no;yes;no;no;no;no;yes;4;14;N/A
+Medipal Holdings;no;yes;no;Health Care;Wholesalers: Health Care;Japan;Tokyo;N/A;yes;no;no;no;no;no;no;no;yes;-81;20;N/A
+Randstad;yes;no;no;Business Services;Diversified Outsourcing Serivces;Netherlands;Diemen;N/A;yes;no;no;yes;no;no;no;no;yes;N/A;9;N/A
+Coles Group;no;yes;no;Food & Drug Stores;Food & Drug Stores;Australia;Hawthorn East;N/A;yes;no;no;yes;no;no;no;no;yes;-15;3;N/A
+Credit Suisse Group;no;yes;no;Financials;Banks: Commercial and Savings;Switzerland;Zurich;N/A;no;no;no;yes;no;no;no;no;yes;-116;28;N/A
+ABB;no;yes;no;Industrials;Industrial Machinery;Switzerland;Zurich;N/A;yes;no;no;no;no;no;no;no;yes;-87;28;N/A
+Danone;no;yes;no;Food, Beverages & Tobacco;Food Consumer Products;France;Paris;N/A;yes;yes;no;no;no;no;no;no;yes;-45;28;N/A
+Umicore;yes;no;no;Chemicals;Chemicals;Belgium;Brussels;N/A;yes;no;no;yes;no;no;no;no;yes;N/A;1;N/A
+China Evergrande Group;no;no;yes;Financials;Real estate;China;Shenzhen;N/A;yes;no;no;no;no;no;no;no;yes;30;6;no
+Sinochem;no;yes;no;Wholesalers;Trading;China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;-42;26;no
+ChemChina;no;no;yes;Chemicals;Chemicals;China;Beijing;N/A;no;no;no;no;no;no;no;no;yes;3;11;no
+Prudential PLC;no;yes;no;Financials;Insurance: Life, Health (stock);Britain;London;N/A;yes;no;no;yes;no;no;no;no;yes;-105;26;no
+Suning.com Group;no;yes;no;Retailing;Specialty Retailers;China;Nanjing;N/A;no;no;no;no;no;no;no;no;yes;-4;5;no
+Yango Longking Group;no;no;yes;Financials;Diversified Financials;China;Fuzhou;N/A;yes;no;no;yes;no;no;no;no;yes;22;5;no
+Cedar Holdings Group;no;yes;no;Wholesalers;Trading;China;Guangzhou;N/A;yes;no;no;no;no;no;no;no;yes;-63;4;no
+Sunac China Holdings;yes;no;no;Financials;Real estate;China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;N/A;1;no
+Sun Life Financial;no;no;yes;Financials;Insurance: Life, Health (stock);Canada;Toronto, Ontario;N/A;yes;no;no;yes;no;no;no;no;yes;39;15;no
+Kansai Electric Power;no;no;yes;Energy;Utilities;Japan;Osaka;N/A;yes;no;no;yes;no;no;no;no;yes;11;27;no
+China General Technology;no;no;yes;Engineering & Construction;Engineering & Construction;China;Beijing;N/A;yes;no;no;yes;no;no;no;no;yes;47;7;no
+NEC;no;no;yes;Technology;Information Technology Services;Japan;Tokyo;N/A;yes;no;no;yes;no;no;no;no;yes;18;27;no
+BT Group;no;yes;no;Telecommunications;Telecommunications;Britain;London;N/A;yes;no;no;no;no;no;no;no;yes;-4;27;no
+Chubu Electric Power;no;no;yes;Energy;Utilities;Japan;Nagoya;N/A;yes;no;no;no;no;no;no;no;yes;14;27;no
+Compagnie de l'Odet;no;no;yes;Media;Entertainment;France;Paris;N/A;yes;no;no;no;no;no;no;no;yes;15;3;no
+Mazda Motor;no;yes;no;Motor Vehicles & Parts;Motor Vehicles & Parts;Japan;Hiroshima;N/A;no;no;no;no;no;no;no;no;yes;-49;27;no
+Hewlett Packard Enterprise;no;yes;no;Technology;Computers, Office Equipment;U.S.;Houston;Texas;no;yes;no;no;no;no;yes;no;no;-22;5;no
+Achmea;no;no;yes;Financials;Insurance: Life, Health (Mutual);Netherlands;Zeist;N/A;yes;no;yes;yes;no;no;no;no;yes;6;8;no
+United Natural Foods;yes;no;no;Wholesalers;Wholesalers: Food and Grocery;U.S.;Providence;Rhode Island;no;no;no;yes;no;no;yes;no;no;N/A;1;no
+Centrica;no;yes;no;Energy;Utilities;Britain;Windsor;N/A;yes;no;no;no;no;no;no;no;yes;-18;24;no
+Subaru;no;yes;no;Motor Vehicles & Parts;Motor Vehicles & Parts;Japan;Tokyo;N/A;yes;no;no;yes;no;no;no;no;yes;-54;19;no
+Boehringer Ingelheim;yes;no;no;Health Care;Pharmaceuticals;Germany;Ingelheim;N/A;yes;no;no;yes;no;no;no;no;yes;N/A;3;no
+Kraft Heinz;yes;no;no;Food, Beverages & Tobacco;Food Consumer Products;U.S.;Chicago;Illinois;yes;no;no;yes;no;no;yes;no;no;N/A;6;no
+China Resources Land;yes;no;no;Financials;Real estate;China;Hong Kong;N/A;yes;no;no;no;no;no;no;no;yes;N/A;1;no
+WH Group;yes;no;no;Food, Beverages & Tobacco;Food Consumer Products;China;Hong Kong;N/A;yes;no;no;yes;no;no;no;no;yes;N/A;2;no
+Dollar Tree;yes;no;no;Retailing;Specialty Retailers;U.S.;Chesapeake;Virginia;yes;no;no;yes;no;no;yes;no;no;N/A;1;no
+Amgen;yes;no;no;Health Care;Pharmaceuticals;U.S.;Thousand Oaks;California;yes;no;no;yes;no;no;yes;no;no;N/A;3;no
+U.S. Bancorp;no;yes;no;Financials;Banks: Commercial and Savings;U.S.;Minneapolis;Minnesota;yes;yes;no;no;no;no;yes;no;no;-13;16;no
+Ericsson;yes;no;no;Technology;Network and Other Communications Equipment;Sweden;Stockholm;N/A;yes;yes;no;yes;no;no;no;no;yes;N/A;25;no
+Huayang New Material Technology Group;no;no;yes;Energy;Mining, Crude-Oil Production;China;Yangquan;N/A;no;no;no;no;no;no;no;no;yes;18;9;no
+Nokia;no;no;yes;Technology;Network and Other Communications Equipment;Finland;Espoo;N/A;no;no;no;no;no;no;no;no;yes;3;23;no
+BAE Systems;yes;no;no;Aerospace & Defense;Aerospace & Defense;Britain;London;N/A;yes;yes;no;yes;no;no;no;no;yes;N/A;25;no
+Gilead Sciences;yes;no;no;Health Care;Pharmaceuticals;U.S.;Foster City;California;yes;no;no;yes;no;no;yes;no;no;N/A;5;no
+UniCredit Group;no;yes;no;Financials;Banks: Commercial and Savings;Italy;Milan;N/A;no;no;no;no;no;no;no;no;yes;-22;26;no
+Mapfre Group;no;yes;no;Financials;Insurance: Property and Casualty (Stock);Spain;Madrid;N/A;yes;no;no;no;no;no;no;no;yes;-29;14;no
+Alfresa Holdings;yes;no;no;Health Care;Wholesalers: Health Care;Japan;Tokyo;N/A;yes;no;no;no;no;no;no;no;yes;N/A;9;no
+Eli Lilly;yes;no;no;Health Care;Pharmaceuticals;U.S.;Indianapolis;Indiana;yes;no;no;yes;no;no;yes;no;no;N/A;15;no
+Truist Financial;yes;no;no;Financials;Banks: Commercial and Savings;U.S.;Charlotte;North Carolina;yes;yes;no;no;no;no;yes;no;no;N/A;1;no
+China Reinsurance (Group);yes;no;no;Financials;Insurance: Property and Casualty (Stock);China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;N/A;1;no
+Commonwealth Bank of Australia;no;yes;no;Financials;Banks: Commercial and Savings;Australia;Sydney;N/A;yes;no;no;no;no;no;no;no;yes;-82;17;no
+Flex;yes;no;no;Technology;Electronics, Electrical Equip.;Singapore;Singapore;N/A;yes;yes;yes;yes;no;no;no;no;yes;N/A;20;no
+Rite Aid;yes;no;no;Food & Drug Stores;Food & Drug Stores;U.S.;Camp Hill;Pennsylvania;no;no;no;yes;no;no;yes;no;no;N/A;21;no
+Peugeot;no;yes;no;Motor Vehicles & Parts;Motor Vehicles & Parts;France;Rueil-Malmaison;N/A;yes;no;no;no;no;no;no;no;yes;-5;26;no
+CNP Assurances;no;no;yes;Financials;Insurance: Life, Health (stock);France;Paris;N/A;yes;no;no;yes;no;no;no;no;yes;49;26;no
+M&G;yes;no;no;Financials;Insurance: Life, Health (stock);Britain;London;N/A;yes;no;no;no;no;no;no;no;yes;N/A;1;no
+Tech Data;no;yes;no;Wholesalers;Wholesalers: Electronics and Office Equipment;U.S.;Clearwater;Florida;yes;yes;no;yes;no;no;yes;no;no;-11;22;no
+Schlumberger;no;yes;no;Energy;Oil & Gas Equipment, Services;U.S.;Houston;Texas;no;no;no;yes;no;no;no;no;yes;-3;20;no
+Jizhong Energy Group;no;yes;no;Energy;Mining, Crude-Oil Production;China;Xingtai;N/A;no;no;no;no;no;no;no;no;yes;-59;10;no
+Air France-KLM Group;no;yes;no;Transportation;Airlines;France;Paris;N/A;yes;yes;no;yes;no;no;no;no;yes;-10;24;no
+CFE;no;no;yes;Energy;Utilities;Mexico;Mexico City;N/A;yes;no;no;no;no;no;no;no;yes;23;13;no
+Johnson Controls International;no;yes;no;Industrials;Industrial Machinery;Ireland;Cork;N/A;yes;no;no;no;no;no;no;no;yes;-40;16;no
+International Airlines Group;no;yes;no;Transportation;Airlines;Britain;Harmondsworth;N/A;yes;yes;no;yes;no;no;no;no;yes;-11;23;no
+Huaxia Life Insurance;no;yes;no;Financials;Insurance: Life, Health (Mutual);China;Beijing;N/A;yes;no;no;no;no;no;no;no;yes;-7;2;no
+Safran;no;no;yes;Aerospace & Defense;Aerospace & Defense;France;Paris;N/A;yes;yes;no;yes;no;no;no;no;yes;42;2;no
+Michelin;no;no;yes;Motor Vehicles & Parts;Motor Vehicles & Parts;France;Clermont-Ferrand;N/A;yes;yes;no;yes;no;no;no;no;yes;6;26;no
+Heineken;no;yes;no;Food, Beverages & Tobacco;Beverages;Netherlands;Amsterdam;N/A;yes;yes;no;yes;no;no;no;no;yes;-7;14;no
+Adidas;no;no;yes;Apparel;Apparel;Germany;Herzogenaurach;N/A;yes;yes;no;yes;no;no;no;no;yes;1;3;no
+Adecco Group;no;yes;no;Business Services;Diversified Outsourcing Services;Switzerland;Zurich;N/A;yes;no;no;yes;no;no;no;no;yes;-39;22;no
+Henan Energy & Chemical;no;yes;no;Energy;Mining, Crude-Oil Production;China;Zhengzhou;N/A;no;no;no;no;no;no;no;no;yes;-2;8;no
+Westpac Banking;no;yes;no;Financials;Banks: Commercial and Savings;Australia;Sydney;N/A;yes;no;no;no;no;no;no;no;yes;-58;16;no
+Paccar;yes;no;no;Industrials;Construction and Farm Machinery;U.S.;Bellevue;Washington;yes;yes;no;no;no;no;yes;no;no;N/A;3;no
+Shanxi Jincheng Anthracite Coal Mining Group;no;yes;no;Energy;Mining, Crude-Oil Production;China;Jincheng;N/A;yes;no;no;no;no;no;no;no;yes;-18;8;no
