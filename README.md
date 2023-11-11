@@ -14,7 +14,7 @@ The calculation is as follows:
 **Image 1: Profit classes calculation**
 <br>
 
-![](https://github.com/IvoDSBarros/transition-matrices/blob/97f8a15a69139ef69f0bc664ca925b3b1a73336b/output/png/transition_matrices_calculation_support.PNG)
+![](https://github.com/IvoDSBarros/transition-matrices/blob/b80655500b36c7426a26ff19efa833db5985eddb/output/transition_matrices_calculation_support.PNG)
 
 
 ## 2. Interpretation of the transition matrix
